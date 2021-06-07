@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hacamerの博客</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-06-06T23:54:33.418Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Hacamer</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hacamerの博客</title>
+    <link href="http://example.com/hello-world/"/>
+    <id>http://example.com/hello-world/</id>
+    <published>2021-06-06T23:54:24.000Z</published>
+    <updated>2021-06-06T23:54:33.418Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>AdGuard规则</title>
+    <link href="http://example.com/AdGuard%E8%A7%84%E5%88%99/"/>
+    <id>http://example.com/AdGuard%E8%A7%84%E5%88%99/</id>
+    <published>2021-06-06T23:48:00.000Z</published>
+    <updated>2021-06-07T00:05:22.803Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://hacamer.coding.net/p/lite/d/text/git/raw/master/adguard.png" alt="AdGuard"></p><p>   AdGuard规则,AdGuard</p><h2 id="Write-By-Hacamer"><a href="#Write-By-Hacamer" class="headerlink" title="Write By Hacamer"></a>Write By Hacamer</h2><h3 id="更新时间：2021年6月4日08-23-27"><a href="#更新时间：2021年6月4日08-23-27" class="headerlink" title="更新时间：2021年6月4日08:23:27"></a>更新时间：2021年6月4日08:23:27</h3><h3 id="自定义过滤器"><a href="#自定义过滤器" class="headerlink" title="自定义过滤器"></a>自定义过滤器</h3><p>adgk：<a href="https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt">https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt</a></p><p>My AdFilters(for PC）：<a href="https://halflife.coding.net/p/list/d/list/git/raw/master/ad-pc.txt">https://halflife.coding.net/p/list/d/list/git/raw/master/ad-pc.txt</a></p><h3 id="DNS过滤器"><a href="#DNS过滤器" class="headerlink" title="DNS过滤器"></a>DNS过滤器</h3><p>anti_ad:<br><a href="https://hacamer.coding.net/p/lite/d/anti-AD/git/raw/master/anti-ad-adguard.txt">https://hacamer.coding.net/p/lite/d/anti-AD/git/raw/master/anti-ad-adguard.txt</a></p><p>AdGuard DNS过滤器：<br><a href="https://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt">https://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt</a></p><p>Adaway: <a href="https://hacamer.coding.net/p/lite/d/adaway.rule/git/raw/master/hosts.txt">https://hacamer.coding.net/p/lite/d/adaway.rule/git/raw/master/hosts.txt</a></p><p>Hacamer的DNS规则：<a href="https://gitee.com/hacamer/some-web-advertising-rules/raw/master/some-rule(dns).txt">https://gitee.com/hacamer/some-web-advertising-rules/raw/master/some-rule(dns).txt</a></p><p>白名单<br>冷漠维护的白名单：<a href="https://cdn.jsdelivr.net/gh/Potterli20/filtering@master/filtering.txt">https://cdn.jsdelivr.net/gh/Potterli20/filtering@master/filtering.txt</a></p><h3 id="Hacamer的规则"><a href="#Hacamer的规则" class="headerlink" title="Hacamer的规则"></a>Hacamer的规则</h3><p>自己随便写的规则(去哔哩哔哩网页打开app提示)：<br><a href="https://gitee.com/hacamer/some-web-advertising-rules/raw/master/not-app.txt">https://gitee.com/hacamer/some-web-advertising-rules/raw/master/not-app.txt</a></p><p>自己搜集的用户规则(From CoolApk)：<br><a href="https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt">https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt</a></p><p>自己搜集的DNS规则(From CoolApk)：<br><a href="https://gitee.com/hacamer/some-web-advertising-rules/raw/master/some-rule(dns).txt">https://gitee.com/hacamer/some-web-advertising-rules/raw/master/some-rule(dns).txt</a></p><p>合并规则(不建议使用）：<br>ALL:<br><a href="https://hacamer.coding.net/p/lite/d/adsrules/git/raw/master/ALL-all.txt">https://hacamer.coding.net/p/lite/d/adsrules/git/raw/master/ALL-all.txt</a><br>ALL-lengmo:<br><a href="https://hacamer.coding.net/p/lite/d/adsrules/git/raw/master/ALL-lengmo.txt">https://hacamer.coding.net/p/lite/d/adsrules/git/raw/master/ALL-lengmo.txt</a><br>ALL-xiaozhong:<br><a href="https://hacamer.coding.net/p/lite/d/adsrules/git/raw/master/ALL-xiaozhong.txt">https://hacamer.coding.net/p/lite/d/adsrules/git/raw/master/ALL-xiaozhong.txt</a></p><h3 id="国外规则-Cdn列表"><a href="#国外规则-Cdn列表" class="headerlink" title="国外规则-Cdn列表"></a>国外规则-Cdn列表</h3><p>广告规则cdn加速列表(链接是Github的镜像）：<br><a href="https://hub.fastgit.org/hacamer/AdBlock-Rules-Mirror">https://hub.fastgit.org/hacamer/AdBlock-Rules-Mirror</a></p><p><a href="https://hacamer.coding.net/public/lite/AdBlock-Rules-Mirror/git/files">https://hacamer.coding.net/public/lite/AdBlock-Rules-Mirror/git/files</a></p><p> 注:My AdFilters (for PC)，adgk，neodev过滤效果过于强大，慎用！<br>以上规则必须开启https过滤（将证书移动到系统分区），否则过滤效果将下降！<br>这些规则AdGuardHome也可以用，但效果比AdGuard差一点,可以去试试<br>配置文件备份(微云)：</p><p><a href="https://share.weiyun.com/I7Fyjfs6">https://share.weiyun.com/I7Fyjfs6</a></p><p><a href="https://hacamer.coding.net/p/adgurd/d/adgp/git/raw/master/adg_2021_6_1.json?download=true">https://hacamer.coding.net/p/adgurd/d/adgp/git/raw/master/adg_2021_6_1.json?download=true</a></p><p>注:上面的配置文件配置的规则过滤效果非常强大，请酌情启用或禁用规则。另外，本人对小部分应用进行了白名单处理（即不拦截广告），请自行查看!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://hacamer.coding.net/p/lite/d/text/git/raw/master/adguard.png&quot; alt=&quot;AdGuard&quot;&gt;&lt;/p&gt;
+&lt;p&gt;   AdGuard规则,AdGuard&lt;/p&gt;
+&lt;h2 id=&quot;Wri</summary>
+      
+    
+    
+    
+    
+    <category term="AdGuard" scheme="http://example.com/tags/AdGuard/"/>
+    
+    <category term="AdGuard规则" scheme="http://example.com/tags/AdGuard%E8%A7%84%E5%88%99/"/>
+    
+  </entry>
+  
+</feed>
