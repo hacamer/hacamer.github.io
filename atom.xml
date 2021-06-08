@@ -6,7 +6,7 @@
   <link href="http://hacamer.github.io/atom.xml" rel="self"/>
   
   <link href="http://hacamer.github.io/"/>
-  <updated>2021-06-07T13:19:36.782Z</updated>
+  <updated>2021-06-08T03:23:55.714Z</updated>
   <id>http://hacamer.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于AdGuard和AdGuardHome的问答</title>
+    <link href="http://hacamer.github.io/About-AdGuard-and-AdGuardHome-/"/>
+    <id>http://hacamer.github.io/About-AdGuard-and-AdGuardHome-/</id>
+    <published>2021-06-08T03:23:45.000Z</published>
+    <updated>2021-06-08T03:23:55.714Z</updated>
+    
+    <content type="html"><![CDATA[<p>待补充</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;待补充&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>AdGuardHome使用方法</title>
