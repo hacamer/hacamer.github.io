@@ -11,7 +11,21 @@
   <url>
     <loc>http://hacamer.github.io/AdGuardHomeUser/</loc>
     
-    <lastmod>2021-06-07</lastmod>
+    <lastmod>2021-06-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hacamer.github.io/Adrules-for-via-x/</loc>
+    
+    <lastmod>2021-06-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hacamer.github.io/Adrules-For-AdGuard/</loc>
+    
+    <lastmod>2021-06-08</lastmod>
     
   </url>
   
@@ -50,20 +64,6 @@
     
   </url>
   
-  <url>
-    <loc>http://hacamer.github.io/Adrules-For-AdGuard/</loc>
-    
-    <lastmod>2021-06-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hacamer.github.io/Adrules-for-via-x/</loc>
-    
-    <lastmod>2021-06-07</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://hacamer.github.io/</loc>
@@ -72,13 +72,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://hacamer.github.io/tags/AdGuardHome/</loc>
-    <lastmod>2021-06-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://hacamer.github.io/tags/AdGuard/</loc>
@@ -103,6 +96,13 @@
   
   <url>
     <loc>http://hacamer.github.io/tags/via/</loc>
+    <lastmod>2021-06-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hacamer.github.io/tags/AdGuardHome/</loc>
     <lastmod>2021-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
