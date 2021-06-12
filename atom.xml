@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hacamerの博客</title>
   
-  
+  <subtitle>hacamer.vercel.app</subtitle>
   <link href="http://hacamer.github.io/atom.xml" rel="self"/>
   
   <link href="http://hacamer.github.io/"/>
