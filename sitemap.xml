@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hacamer.github.io/about/index.html</loc>
+    
+    <lastmod>2021-06-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hacamer.github.io/Adrules-for-via-x/</loc>
     
     <lastmod>2021-06-15</lastmod>
@@ -54,13 +61,6 @@
     <loc>http://hacamer.github.io/tags/index.html</loc>
     
     <lastmod>2021-06-10</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hacamer.github.io/about/index.html</loc>
-    
-    <lastmod>2021-06-07</lastmod>
     
   </url>
   
