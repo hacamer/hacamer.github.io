@@ -1,0 +1,28 @@
+- class_name: HacamerのVIP
+  class_desc: 售后服务享五折优惠2333
+  link_list:
+    - name: Akilar
+      link: https://akilar.top
+      avatar: https://akilar.top/img/siteicon/favicon.png
+      descr: 欢迎光临糖果屋
+    - name: 西伯利呀的小阁楼
+      link: https://xbl-blog.top
+      avatar: https://cdn.jsdelivr.net/gh/xbl040707/TCCK@master/picture/touxiang.jpg
+      descr: 因为喜欢，所以热爱
+    - name: 青葱雅亭 
+      link: https://itciraos.cn
+      avatar: https://itciraos.cn/mysource/avatar.jpg
+      descr: 天动万象！哒哒哒！
+
+
+- class_name: 大佬云集
+  class_desc: 一群技术高超、有耐心的大佬们
+  link_list:
+    - name: Tianli
+      link: https://tianli-blog.club
+      avatar: https://img1.tianli0.top/logo.png
+      descr: 惟其不可能，所以才相信。
+    - name: 小冰博客
+      link: https://zfe.one
+      avatar: https://zfe.space/images/headimage.png
+      descr: 做个有梦想的人！
