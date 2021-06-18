@@ -1,4 +1,4 @@
-cover: https://hacamer.coding.net/p/lite/d/text/git/raw/master/adguard.png
+cover: 'https://hacamer.coding.net/p/lite/d/text/git/raw/master/adguard.png'
 title: ' AdGuard规则'
 author: Hacamer
 tags:
@@ -13,7 +13,7 @@ date: 2021-06-07 07:48:00
 
 ### AdGuard规则 AdGuard
 
-### Write By Hacamer
+### Write By Hacamer For Coolapk
 
 ### 更新时间：2021年6月7日12:07:48
 
@@ -70,6 +70,7 @@ https://share.weiyun.com/I7Fyjfs6
 https://hacamer.coding.net/p/adgurd/d/adgp/git/raw/master/adg_2021_6_1.json?download=true
 
 注:上面的配置文件配置的规则过滤效果非常强大，请酌情启用或禁用规则。另外，本人对小部分应用进行了白名单处理（即不拦截广告），请自行查看!
+##### 以上过滤器不要加太多，多了会慢！建议只加3-4个
 
 ### 本文链接
 ```
