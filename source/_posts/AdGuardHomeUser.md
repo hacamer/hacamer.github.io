@@ -6,8 +6,6 @@ tags:
 categories: []
 date: 2021-06-07 13:51:00
 ---
-
-
 # 常规设置
 
 ![](https://hacamer.coding.net/p/lite/d/text/git/raw/master/jichushezhi.jpeg?download=false)
@@ -27,23 +25,21 @@ date: 2021-06-07 13:51:00
 # 规则设置（自行适当增减）
 ![](https://hacamer.coding.net/p/lite/d/text/git/raw/master/rules.png?download=false)
 
-广告规则：
+{% folding , 广告规则 %} 
 
-https://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt
-
-
-https://raw.fastgit.org/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt
-
-https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt
+#### https://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt
 
 
+#### https://raw.fastgit.org/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt
 
-https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt
+#### https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt
 
-https://raw.fastgit.org/AdAway/adaway.github.io/master/hosts.txt
+#### https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt
 
+#### https://raw.fastgit.org/AdAway/adaway.github.io/master/hosts.txt
 
-https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt
+#### https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt
+{% endfolding %}
 
 
 ### 其他待补充
