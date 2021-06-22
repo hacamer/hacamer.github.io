@@ -462,8 +462,8 @@ google_adsense:
 site_verification:
   # - name: google_site_verification
   #   content: xxxxxx
-  # - name: baidu_site_verification
-  #   content: xxxxxxx
+   - name: baidu_site_verification
+     content: https://hm.baidu.com/hm.js?850021db510d9a7a6674537cdb94986b
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
