@@ -42,8 +42,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/hacamer || Github
-  # fas fa-envelope: mailto:hcamer145@gmail.com || Email
+   fab fa-github: https://github.com/hacamer || Github
+   fas fa-envelope: mailto:hcamer145@gmail.com || Email
 
 # search (搜索)
 # --------------------------------------
@@ -639,7 +639,7 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
+      icon: fab fa-qq
       text: 加入Hacamer的小窝
       link: https://jq.qq.com/?_wv=1027&k=DrFO9ZlB
   card_announcement:
