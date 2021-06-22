@@ -846,7 +846,7 @@ inject:
     - <link rel="stylesheet" href="/css/custom.css"  media="defer" onload="this.media='all'">
   bottom:
     - <script async src="https://cdn.jsdelivr.net/npm/akilar-live2d-widget/autoload.min.js"></script>
-
+    - <script async src="//at.alicdn.com/t/font_2624799_gax6jwcp9i.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
