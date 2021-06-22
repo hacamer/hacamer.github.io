@@ -1,18 +1,147 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>关于AdGuard和AdGuardHome的问答</title>
+      <link href="/About-AdGuard-and-AdGuardHome-/"/>
+      <url>/About-AdGuard-and-AdGuardHome-/</url>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AdGuardHome使用方法</title>
+      <link href="/AdGuardHomeUser/"/>
+      <url>/AdGuardHomeUser/</url>
+      
+      
+      
+        <tags>
+            
+            <tag> AdGuardHome </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Via和X浏览器的广告规则</title>
+      <link href="/Adrules-for-via-x/"/>
+      <url>/Adrules-for-via-x/</url>
+      
+      
+      
+        <tags>
+            
+            <tag> 广告规则 </tag>
+            
+            <tag> via </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title> AdGuard规则</title>
+      <link href="/Adrules-For-AdGuard/"/>
+      <url>/Adrules-For-AdGuard/</url>
+      
+      
+      
+        <tags>
+            
+            <tag> AdGuard </tag>
+            
+            <tag> AdGuard规则 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>类别</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的博客记录</title>
+      <link href="/line/index.html"/>
+      <url>/line/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>留言板</title>
+      <link href="/messageboard/index.html"/>
+      <url>/messageboard/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>视频</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+    </entry>
+    
+    
+  
+</search>
