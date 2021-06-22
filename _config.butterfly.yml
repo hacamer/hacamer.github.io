@@ -603,26 +603,29 @@ hr_icon:
   icon: # the unicode value of Font Awesome icon, such as '\3423'
   icon-top:
 
-# the subtitle on homepage (主頁subtitle)
+# 主页subtitle
 subtitle:
   enable: true
-  # Typewriter Effect (打字效果)
+  # 打字效果
   effect: true
-  # loop (循環打字)
-  loop: true
-  # source調用第三方服務
-  source: true #關閉調用
-  # source: 1  調用搏天api的隨機語錄（簡體）
-  # source: 2  調用一言網的一句話（簡體）
-  source: 3  #調用一句網（簡體）
-  # source: 4  調用今日詩詞（簡體）
-  # subtitle 會先顯示 source , 再顯示 sub 的內容
+  # 循环或者只打字一次
+  loop: false
+  # source调用第三方服务
+  # source: false 关闭调用
+  # source: 1  调用搏天api的随机语录（简体）
+  # source: 2  调用一言网的一句话（简体）
+  # source: 3  调用一句网（简体）
+  # source: 4  调用今日诗词（简体
+  # subtitle 会先显示 source , 再显示 sub 的内容
   source: false
-  # 如果有英文逗號' , ',請使用轉義字元 &#44;
-  # 如果有英文雙引號' " ',請使用轉義字元 &quot;
-  # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
-  # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
+  # 如果有英文逗号' , ',请使用转义字元 &#44;
+  # 如果有英文双引号' " ',请使用转义字元 &quot;
+  # 开头不允许转义字元，如需要，请把整个句子用双引号包住
+  # 例如 ”&quotNever put off till tomorrow what you can do today&quot"
+  # 如果关闭打字效果，subtitle只会显示sub的第一行文字
   sub:
+    - 今日事&#44;今日毕
+    - Never put off till tomorrow what you can do today
 
 # Loading Animation (加載動畫)
 preloader: false
