@@ -62,7 +62,7 @@ exit 0
 else
 if [ "$answer" = "2" ]; then
 printf "\033[32mINFO \033[0m 正在从Github拉取博客源码 ...\n"
-git clone https://github.com/Akilarlxh/Hexo-blog-source.git Hexo # 记得替换仓库URL为自己的源码存放仓库
+git clone git@e.coding.net:hacamer/blog/hexo-yuanma.git Hexo # 记得替换仓库URL为自己的源码存放仓库
 cd Hexo
 printf "\033[32mINFO \033[0m 正在将npm源替换为阿里云镜像 ...\n"
 npm config set registry https://registry.npm.taobao.org # 替换NPM源为阿里镜像

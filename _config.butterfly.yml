@@ -15,8 +15,8 @@ menu:
    目录||fas fa-list:
      音乐: /music/ || fas fa-music
      电影: /movies/ || fas fa-video
-   友情链接: /link/ || fas fa-link
-   我的博客记录: /line/ || fas fa-bell
+   友链: /link/ || fas fa-link
+   记录: /line/ || fas fa-bell
    关于: /about/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
@@ -605,16 +605,16 @@ hr_icon:
 
 # the subtitle on homepage (主頁subtitle)
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect (打字效果)
   effect: true
   # loop (循環打字)
   loop: true
   # source調用第三方服務
-  # source: false 關閉調用
+    source: true #關閉調用
   # source: 1  調用搏天api的隨機語錄（簡體）
   # source: 2  調用一言網的一句話（簡體）
-  # source: 3  調用一句網（簡體）
+    source: 3  調用一句網（簡體）
   # source: 4  調用今日詩詞（簡體）
   # subtitle 會先顯示 source , 再顯示 sub 的內容
   source: false
