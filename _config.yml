@@ -155,6 +155,5 @@ history_calendar:
 
 search:
   path: search.xml
-  field: all
-  content: false
-  template: ./search.xml
+  field: post
+  content: true
