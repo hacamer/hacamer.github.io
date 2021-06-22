@@ -140,8 +140,7 @@ githubcalendar:
   calendar_js: https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js
   plus_style: ""
 
-#butterfly_article_double_row:
-#  enable: true
+
 
 history_calendar:
   priority: 4
