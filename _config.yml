@@ -157,3 +157,14 @@ search:
   path: search.xml
   field: post
   content: true
+
+# Artitalk
+  # see https://artitalk.js.org/
+  artitalk:
+    enable: true
+    appId: Dbb7Cj9IsACOX2W7zWIxnFQd-MdYXbMMI
+    appKey: Pkk7MgXerc9vAKohEyqeuXbH
+    path:
+    js:
+    option:
+    front_matter:
