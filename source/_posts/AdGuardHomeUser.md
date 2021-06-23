@@ -8,7 +8,7 @@ date: 2021-06-07 13:51:00
 ---
 # 常规设置
 
-![](https://hacamer.coding.net/p/lite/d/text/git/raw/master/jichushezhi.jpeg?download=false)
+![](https://hacamer.coding.net/p/lite/d/text/git/raw/master/jichushezhi.jpeg)
 
 
 ## 不要开启日志功能，日志多了，会使AdGuardHome崩溃！
@@ -16,7 +16,7 @@ date: 2021-06-07 13:51:00
 
 
 # DNS设置
-![](https://hacamer.coding.net/p/lite/d/text/git/raw/master/dns.png?download=false)
+![](https://hacamer.coding.net/p/lite/d/text/git/raw/master/dns.png)
 ### 推荐使用并行请求
 
 

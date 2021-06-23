@@ -28,11 +28,11 @@ script.
 
   document.addEventListener('pjax:send', function () {
 
-    // removeEventListener toc scroll 
+    // removeEventListener toc scroll
     window.removeEventListener('scroll', window.tocScrollFn)
 
     typeof preloader === 'object' && preloader.initLoading()
-    
+
     if (window.aplayers) {
       for (let i = 0; i < window.aplayers.length; i++) {
         if (!window.aplayers[i].options.fixed) {
@@ -52,7 +52,7 @@ script.
   document.addEventListener('pjax:complete', function () {
     window.refreshFn()
 
-    document.querySelectorAll('script[data-pjax]').forEach(item => {
+    document.querySelectorAll('script[data-pjax], .pjax-reload script').forEach(item => {
       const newScript = document.createElement('script')
       const content = item.text || item.textContent || item.innerHTML || ""
       Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
