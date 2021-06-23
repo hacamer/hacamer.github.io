@@ -168,3 +168,5 @@ artitalk:
   js:
   option:
   front_matter:
+  card_shuo:
+     enable: true #侧栏说说
