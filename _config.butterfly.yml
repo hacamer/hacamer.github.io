@@ -18,7 +18,7 @@ menu:
    友链: /link/ || fas fa-link
    目志||fas fa-list:
      记录: /line/ || fas fa-bell
-     说说: /artitalk/ || fas fa-bell 
+     说说: /artitalk/ || fas fa-bell
    关于: /about/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
@@ -951,3 +951,19 @@ CDN:
 
   #友链
   flink_style: volantis # butterfly | volantis | flexcard
+
+  # Artitalk
+# see https://artitalk.js.org/
+artitalk:
+  appId: Dbb7Cj9IsACOX2W7zWIxnFQd-MdYXbMMI
+  appKey: Pkk7MgXerc9vAKohEyqeuXbH
+  option:
+    serverURL: https://Dbb7Cj9I.api.lncldglobal.com  #********替换为你的appid前八位
+    lang: zh
+    pageSize: 1
+    color1: '#49b1f5' #注意要用单引号包起来
+    color2: '#00c4b6' #注意要用单引号包起来
+    atEmoji: {
+      'baiyan':'https://cdn.jsdelivr.net/gh/Artitalk/Artitalk-emoji/baiyan.png',
+      'bishi':'https://cdn.jsdelivr.net/gh/Artitalk/Artitalk-emoji/bishi.png',
+      'bizui':'https://cdn.jsdelivr.net/gh/Artitalk/Artitalk-emoji/bizui.png',} #自定义表情包配置示例
