@@ -947,3 +947,14 @@ CDN:
 
   #友链
   flink_style: volantis # butterfly | volantis | flexcard
+
+  # Artitalk
+    # see https://artitalk.js.org/
+    artitalk:
+      enable: true
+      appId: Dbb7Cj9IsACOX2W7zWIxnFQd-MdYXbMMI
+      appKey: Pkk7MgXerc9vAKohEyqeuXbH
+      path:
+      js:
+      option:
+      front_matter:
