@@ -799,7 +799,7 @@ pjax:
 aplayerInject:
   enable: true
   per_page: true
-  meting: true
+
 
 
 # Snackbar (Toast Notification 彈窗)
