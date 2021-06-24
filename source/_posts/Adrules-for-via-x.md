@@ -6,14 +6,14 @@ tags:
 categories: []
 date: 2021-06-07 10:04:00
 ---
-### 适用于via浏览器和x浏览器的广告规则
-### 更新时间：2021年6月17日09:54:53
-### Powerd By Hacamer @Cookapk
-##### 以下过滤器不要加太多，多了会慢！建议只加3-4个
+## 适用于via浏览器和x浏览器的广告规则
+## 更新时间：2021年6月17日09:54:53
+## Powerd By Hacamer @Cookapk
+## 以下过滤器不要加太多，多了会慢！建议只加3-4个
 {% folding , Some-rule(admin)  %} 
 Some-rule(admin)
 作者：Hacamer
-```Rules
+```plaintextRules
 https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt
 ```
 作用：去除部分广告，百度广告
@@ -74,7 +74,7 @@ https://raw.fastgit.org/hacamer/AdBlock-Rules-Mirror/master/AdGuard%20Phone%20Ru
 更新频率：4天
 {% endfolding %}
 
-### 本文链接
+## 本文链接
 ```Link
 http://hacamer.github.io/Adrules-for-via-x/
 ```
