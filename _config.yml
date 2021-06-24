@@ -173,4 +173,4 @@ artitalk:
 
 aplayer:
   meting: true
-  asset_inject: false
+  asset_inject: true
