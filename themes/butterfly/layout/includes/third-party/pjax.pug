@@ -13,7 +13,7 @@ script.
     '#rightside-config-show',
     '#posts-chart',
     '#tags-chart',
-    '#categories-chart',        
+    '#categories-chart',
     '.js-pjax'
   ]
 
@@ -92,11 +92,3 @@ script.
       pjax.loadUrl('/404.html')
     }
   })
-
-  document.querySelectorAll('script[data-pjax]').forEach(item => {
-  const newScript = document.createElement('script')
-  const content = item.text || item.textContent || item.innerHTML || ""
-  Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
-  newScript.appendChild(document.createTextNode(content))
-  item.parentNode.replaceChild(newScript, item)
-})
