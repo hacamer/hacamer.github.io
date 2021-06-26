@@ -105,9 +105,11 @@ deploy:
   type: git
   repo:
     github:
-      url: git@github.com:hacamer/hacamer.github.io.git
+      #url: git@github.com:hacamer/hacamer.github.io.git
+      #url: https://hacamer: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@github.com/hacamer/hacamer.github.io.git
       branch: main
-      github: git@github.com:hacamer/hacamer.github.io.git,main
+      #github: git@github.com:hacamer/hacamer.github.io.git,main
+      github: https://hacamer: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@github.com/hacamer/hacamer.github.io.git
 
 electric_clock:
   priority: 5
