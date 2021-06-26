@@ -973,3 +973,16 @@ artitalk:
       'baiyan':'https://cdn.jsdelivr.net/gh/Artitalk/Artitalk-emoji/baiyan.png',
       'bishi':'https://cdn.jsdelivr.net/gh/Artitalk/Artitalk-emoji/bishi.png',
       'bizui':'https://cdn.jsdelivr.net/gh/Artitalk/Artitalk-emoji/bizui.png',} #自定义表情包配置示例
+
+# HexoPlusPlus Talk
+# see https://hexoplusplus.js.org
+hpptalk:
+  enable: true
+  domain: bk.hacamer.workers.dev
+  path:
+  limit:
+  start:
+  js:
+  css:
+  option:
+  front_matter:
