@@ -107,7 +107,7 @@ deploy:
     github:
       url: git@github.com:hacamer/hacamer.github.io.git
       #url: https://hacamer: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@github.com/hacamer/hacamer.github.io.git
-      branch: main
+      branch: gh-pages
       github: git@github.com:hacamer/hacamer.github.io.git,main
       #github: https://hacamer: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@github.com/hacamer/hacamer.github.io.git
 
