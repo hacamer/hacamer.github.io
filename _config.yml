@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hacamerの博客
+title: Hacamerの小窝
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://hacamer.github.io/project'
-url: http://hacamer.github.io
+url: https://www.hacamer.tk
 permalink: :title/
 permalink_defaults:
 pretty_urls:
