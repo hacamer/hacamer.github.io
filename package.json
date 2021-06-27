@@ -11,18 +11,18 @@
     "clean:yuque": "yuque-hexo clean"
   },
   "yuqueConfig": {
-  "postPath": "source/_posts",
-  "cachePath": "yuque.json",
-  "mdNameFormat": "slug",
-  "adapter": "markdown",
-  "concurrency": 5,
-  "baseUrl": "https://www.yuque.com/api/v2",
-  "login": "hacamer",
-  "repo": "blog",
-  "token": "ymipGYjMQUyWXxyLhmvmisHiuXYtvETCbJlUyfEY",
-  "onlyPublished": true,
-  "onlyPublic": true
-},
+    "postPath": "source/_posts",
+    "cachePath": "yuque.json",
+    "mdNameFormat": "slug",
+    "adapter": "markdown",
+    "concurrency": 5,
+    "baseUrl": "https://www.yuque.com/api/v2",
+    "login": "hacamer",
+    "repo": "blog",
+    "token": "ymipGYjMQUyWXxyLhmvmisHiuXYtvETCbJlUyfEY",
+    "onlyPublished": true,
+    "onlyPublic": true
+  },
   "hexo": {
     "version": "5.4.0"
   },
@@ -32,6 +32,7 @@
     "hexo": "^5.0.0",
     "hexo-admin": "^2.3.0",
     "hexo-butterfly-artitalk": "^1.0.3",
+    "hexo-butterfly-hpptalk": "^1.0.3",
     "hexo-deployer-git": "^3.0.0",
     "hexo-electric-clock": "^1.1.0",
     "hexo-generator-archive": "^1.0.0",

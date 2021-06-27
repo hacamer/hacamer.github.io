@@ -1,41 +1,38 @@
-name: Hexo 部署
 
-on:
-  push:
-    branches:
-      - main
+name: HacamerのBlogBuild
+
+on: [push, repository_dispatch]
+
 
 jobs:
-  build:
-    runs-on: ubuntu-18.04
-    if: github.event.repository.owner.id == github.event.sender.id
+  buildstatic:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout source
-        uses: actions/checkout@v2
-        with:
-          ref: master
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        ref: master
+    - name: Setup node
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+    - name: Cache node modules
+      uses: actions/cache@v1
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: '12'
 
-      - name: Setup Hexo
-        env:
-          ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_KEY }}
-        run: |
-          mkdir -p ~/.ssh/
-          echo "$ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa
-          chmod 700 ~/.ssh
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
-          git config --global user.email "hcamer145@gmail.com"
-          git config --global user.name "Hacamer"
-          npm install hexo-cli -g
-          npm install
 
-      - name: Deploy
-        run: |
-          hexo clean
-          hexo deploy
+    - name: Install & Build
+      run: |
+        npm install -g hexo-cli
+        npm i
+        hexo g
+        
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.TOKEN }}
+        publish_dir: ./public
