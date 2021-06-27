@@ -31,8 +31,5 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        deploy:
-         type: git
-         repo: git@github.com:hacamer/hacamer.github.io.git
         github_token: ${{ secrets.TOKEN }}
         publish_dir: ./public
