@@ -855,7 +855,7 @@ inject:
   head:
     - <link rel="stylesheet" href="/css/custom.css"  media="defer" onload="this.media='all'">
     - '<style type="text/css">#toggle-sidebar {bottom: 80px}</style>'
-    - <script src="https://cdn.jsdelivr.net/gh/wallleap/cdn@latest/js/sakura.js"></script> #樱花特效
+    #- <script src="https://cdn.jsdelivr.net/gh/wallleap/cdn@latest/js/sakura.js"></script> #樱花特效
   bottom:
     - <script async src="https://cdn.jsdelivr.net/npm/akilar-live2d-widget/autoload.min.js"></script>  #看板娘
     - <script async src="//at.alicdn.com/t/font_2624799_gax6jwcp9i.js"></script>
