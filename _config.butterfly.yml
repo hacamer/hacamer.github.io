@@ -507,7 +507,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://hacamer.coding.net/p/lite/d/text/git/raw/master/chuyin.jpg)
+background: url(https://cdn.jsdelivr.net/gh/hacamer/IMG@main/1624978306000.png)
 
 # Footer Background
 footer_bg: true
