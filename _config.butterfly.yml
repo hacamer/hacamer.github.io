@@ -46,9 +46,9 @@ copy:
 # formal:
 #   icon: link || the description
   social:
-    fab fa-github:  https://github.com/hacamer || Github
-    fas fa-envelope:  mailto:hcamer145@gmail.com || Email
-    fab fa-qq:  https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || QQ
+    icon-huaban88: https://github.com/hacamer || Github
+    icon-youjian: mailto:hcamer145@gmail.com || Email
+    icon-qq: https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || QQ
 
 # search (搜索)
 # --------------------------------------
@@ -96,7 +96,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://hacamer.coding.net/p/lite/d/text/git/raw/master/chuyin.jpg
+index_img: #https://hacamer.coding.net/p/lite/d/text/git/raw/master/chuyin.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://hacamer.coding.net/p/lite/d/text/git/raw/master/chuyin.jpg
@@ -861,7 +861,7 @@ inject:
     #- <script src="https://cdn.jsdelivr.net/gh/wallleap/cdn@latest/js/sakura.js"></script> #樱花特效
   bottom:
     - <script async src="https://cdn.jsdelivr.net/npm/akilar-live2d-widget/autoload.min.js"></script>  #看板娘
-    - <script async src="//at.alicdn.com/t/font_2624799_gax6jwcp9i.js"></script>
+    - <script async src="//at.alicdn.com/t/font_2624799_cqq427kt9i5.js"></script>
     - <div class="aplayer no-destroy" data-id="8044972711" data-server="tencent" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="true" muted></div>
     #- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=537787665&auto=0&height=66"></iframe>
 # CDN
