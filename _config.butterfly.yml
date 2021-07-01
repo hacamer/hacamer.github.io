@@ -45,10 +45,10 @@ copy:
 # social settings (社交圖標設置)
 # formal:
 #   icon: link || the description
-  social:
-    icon-huaban88: https://github.com/hacamer || Github
-    icon-youjian: mailto:hcamer145@gmail.com || Email
-    icon-qq: https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || QQ
+social:
+  icon-huaban88: https://github.com/hacamer || Github
+  icon-youjian: mailto:hcamer145@gmail.com || Email
+  icon-qq: https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || QQ
 
 # search (搜索)
 # --------------------------------------
