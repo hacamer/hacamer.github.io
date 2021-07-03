@@ -1,5 +1,5 @@
 ---
-title: 图片
+title: 猫羽雫合集
 date: {{ date }}
 tags: 图片
 ---
@@ -25,3 +25,4 @@ tags: 图片
 ![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/maoyuna/p3.png)
 ![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/maoyuna/p2.png)
 ![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/maoyuna/p1.png)
+{% endgallery %}
