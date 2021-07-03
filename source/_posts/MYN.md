@@ -1,5 +1,5 @@
-cover:https://cdn.jsdelivr.net/gh/hacamer/IMG@main/1624978306000.png
 ---
+cover: 'https://cdn.jsdelivr.net/gh/hacamer/IMG@main/1624978306000.png'
 title: 猫羽雫合集
 date: {{ date }}
 tags: 图片
