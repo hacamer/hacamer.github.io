@@ -27,18 +27,23 @@ date: 2021-06-07 13:51:00
 
 {% folding , 广告规则 %} 
 
-#### https://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt
+http://file.trli.club/dns/ad-hosts.txt (搭配白名单使用)
 
+http://file.trli.club/dns/whitelist.txt  (白名单)
 
-#### https://raw.fastgit.org/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt
+http://file.trli.club/dns/ad-adblock.txt  (与http://file.trli.club/dns/ad-hosts.txt任一即可,但都要搭配白名单)
 
-#### https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt
+~https://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt~
 
-#### https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt
+~https://raw.fastgit.org/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt~
 
-#### https://raw.fastgit.org/AdAway/adaway.github.io/master/hosts.txt
+~https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt~
 
-#### https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt
+~https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt~
+
+~https://raw.fastgit.org/AdAway/adaway.github.io/master/hosts.txt~
+
+~https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt~
 {% endfolding %}
 
 
