@@ -10,6 +10,13 @@ date: 2021-06-07 10:04:00
 ## 更新时间：2021年6月17日09:54:53
 ## Powerd By Hacamer @Cookapk
 ## 以下过滤器不要加太多，多了会慢！建议只加3-4个
+{% folding , Some-rule(admin) Lite  %} 
+Some-rule(admin)
+作者：Hacamer
+```rules
+https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/some-rules(for-Mobile).txt
+```
+{% endfolding %}
 {% folding , Some-rule(admin)  %} 
 Some-rule(admin)
 作者：Hacamer
