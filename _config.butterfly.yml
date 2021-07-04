@@ -99,7 +99,7 @@ disable_top_img: false
 index_img: #https://hacamer.coding.net/p/lite/d/text/git/raw/master/chuyin.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://hacamer.coding.net/p/lite/d/text/git/raw/master/chuyin.jpg
+default_top_img: #https://hacamer.coding.net/p/lite/d/text/git/raw/master/chuyin.jpg
 
 # The banner image of archive page
 archive_img: https://hacamer.coding.net/p/lite/d/text/git/raw/master/chuyin.jpg
@@ -131,8 +131,12 @@ cover:
   # left/right/both
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
-  default_cover: https://hacamer.coding.net/p/lite/d/text/git/raw/master/chuyin.jpg
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+  default_cover: #https://hacamer.coding.net/p/lite/d/text/git/raw/master/chuyin.jpg
+     -  https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover5.webp
+     -  https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover4.webp
+     -  https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover3.webp
+     -  https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover2.webp
+     -  https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover1.webp
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
