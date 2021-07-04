@@ -2,7 +2,9 @@
 cover: 'https://cdn.jsdelivr.net/gh/hacamer/IMG@main/1624978306000.png'
 title: 猫羽雫合集
 date: {{ date }}
-tags: 图片
+tags:
+ - 图片
+ - 合集
 ---
 {% gallery %}
 ![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/1624978306000.png)
