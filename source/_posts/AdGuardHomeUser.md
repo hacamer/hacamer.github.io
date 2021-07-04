@@ -31,7 +31,7 @@ http://file.trli.club/dns/ad-hosts.txt (搭配白名单使用)
 
 http://file.trli.club/dns/whitelist.txt  (白名单)
 
-http://file.trli.club/dns/ad-adblock.txt  (与http://file.trli.club/dns/ad-hosts.txt任一即可,但都要搭配白名单)
+http://file.trli.club/dns/ad-adblock.txt  (与http://file.trli.club/dns/ad-hosts.txt 任一即可,但都要搭配白名单)
 
 ~https://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt~
 
