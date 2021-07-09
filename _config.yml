@@ -160,40 +160,40 @@ search:
   field: post
   content: true
 
-  # artitalk see https://artitalk.js.org/
-  # hexo-butterfly-artitalk-pro
-  # see https://akilar.top/posts/f1004b1d/
-  artitalk:
-    enable:
-      card: true # 侧边栏开关
-      page: true #页面开关
-    # 侧栏相关配置项
-    priority: 5 #过滤器优先权
-    enable_page: all # 应用页面
-    layout: # 挂载容器类型
-      type: class
-      name: sticky_layout
-      index: 0
-    # 页面相关配置项
-    path: artitalk
-    front_matter:
-      title: 碎碎念
-    # 公共配置项
-      appId: Dbb7Cj9IsACOX2W7zWIxnFQd-MdYXbMMI
-      appKey: Pkk7MgXerc9vAKohEyqeuXbH
-    exclude:
-      - /artitalk/
-      - /posts/ #需要abbrlink插件支持
-    js: https://cdn.jsdelivr.net/npm/artitalk
-    option:
-      serverURL: https://Dbb7Cj9I.api.lncldglobal.com #********替换成你的appID前八位
-      lang: zh
-      pageSize: 1
-      color1: '#49b1f5'
-      color2: '#00c4b6'
-      atEmoji: {
-        'Mafumafu1':'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Mafumafu/199749454.png',
-        'Mafumafu2':'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Mafumafu/199749455.png'}
+# artitalk see https://artitalk.js.org/
+# hexo-butterfly-artitalk-pro
+# see https://akilar.top/posts/f1004b1d/
+artitalk:
+  enable:
+    card: true # 侧边栏开关
+    page: true #页面开关
+  # 侧栏相关配置项
+  priority: 5 #过滤器优先权
+  enable_page: all # 应用页面
+  layout: # 挂载容器类型
+    type: class
+    name: sticky_layout
+    index: 0
+  # 页面相关配置项
+  path: artitalk
+  front_matter:
+    title: 碎碎念
+  # 公共配置项
+    appId: Dbb7Cj9IsACOX2W7zWIxnFQd-MdYXbMMI
+    appKey: Pkk7MgXerc9vAKohEyqeuXbH
+   exclude:
+    - /artitalk/
+    - /posts/ #需要abbrlink插件支持
+  js: https://cdn.jsdelivr.net/npm/artitalk
+  option:
+    serverURL: https://Dbb7Cj9I.api.lncldglobal.com #********替换成你的appID前八位
+    lang: zh
+    pageSize: 1
+    color1: '#49b1f5'
+    color2: '#00c4b6'
+    atEmoji: {
+      'Mafumafu1':'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Mafumafu/199749454.png',
+      'Mafumafu2':'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Mafumafu/199749455.png'}
 
 aplayer:
   meting: true
