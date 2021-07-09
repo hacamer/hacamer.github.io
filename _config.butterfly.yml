@@ -46,9 +46,9 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  #fa fa-github: https://github.com/hacamer || Github
-  #fa fa-envelope: mailto:hcamer145@gmail.com || Email
-  #fa fa-qq: https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || QQ
+  Github: https://github.com/hacamer || fab fa-github
+  Email: mailto:hcamer145@gmail.com || fas fa-envelop
+  QQ: https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || fas fa-address-book
 
 # search (搜索)
 # --------------------------------------
