@@ -179,9 +179,9 @@ artitalk:
   front_matter:
     title: 碎碎念
   # 公共配置项
-    appId: Dbb7Cj9IsACOX2W7zWIxnFQd-MdYXbMMI
-    appKey: Pkk7MgXerc9vAKohEyqeuXbH
-   exclude:
+  appId: Dbb7Cj9IsACOX2W7zWIxnFQd-MdYXbMMI
+  appKey: Pkk7MgXerc9vAKohEyqeuXbH
+  exclude:
     - /artitalk/
     - /posts/ #需要abbrlink插件支持
   js: https://cdn.jsdelivr.net/npm/artitalk
