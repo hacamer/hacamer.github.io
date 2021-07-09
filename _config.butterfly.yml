@@ -47,8 +47,8 @@ copy:
 #   icon: link || the description
 social:
   Github: https://github.com/hacamer || fab fa-github
-  Email: mailto:hcamer145@gmail.com || fas fa-envelop
-  QQ: https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || fas fa-address-book
+  Email: mailto:hcamer145@gmail.com || fa-qq
+  QQ: https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || fa-qq
 
 # search (搜索)
 # --------------------------------------
