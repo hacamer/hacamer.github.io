@@ -472,7 +472,7 @@ site_verification:
   # - name: google_site_verification
   #   content: xxxxxx
     - name: baidu_site_verification
-      content: 6ede955568150b52978ed5e7bf11616d
+      content: <script>var _hmt = _hmt || [];(function() {var hm = document.createElement("script");  hm.src = "https://hm.baidu.com/hm.js?6ede955568150b52978ed5e7bf11616d";  var s = document.getElementsByTagName("script")[0];   s.parentNode.insertBefore(hm, s);})();</script>
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
