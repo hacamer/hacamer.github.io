@@ -46,9 +46,10 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-    fab fa-github: https://github.com/hacamer || Github
-    fas fa-envelope: mailto:hcamer145@gmail.com || Email
-    fab fa-qq: https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || QQ
+   Github: https://github.com/hacamer || fab fa-github
+   Email: mailto:hcamer145@gmail.com || fas fa-envelope
+   QQ: https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || fab fa-qq
+   Bilibili: https://space.bilibili.com/480108220 || icon-bilibili
 
 # search (搜索)
 # --------------------------------------
