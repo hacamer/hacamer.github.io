@@ -199,7 +199,7 @@ aplayer:
   meting: true
   asset_inject: false
 
-﻿# hexo-butterfly-swiper
+# hexo-butterfly-swiper
 # see https://akilar.top/posts/8e1264d1/
 swiper:
   enable: true # 开关
