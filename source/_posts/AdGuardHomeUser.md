@@ -1,3 +1,4 @@
+swiper_index: 3
 cover: 'https://adguard.com/img/products/home/home.png'
 title: AdGuardHome使用方法
 author: Hacamer
@@ -25,7 +26,7 @@ date: 2021-06-07 13:51:00
 # 规则设置（自行适当增减）
 ![](https://hacamer.coding.net/p/lite/d/text/git/raw/master/rules.png?download=false)
 
-{% folding , 广告规则 %} 
+{% folding , 广告规则 %}
 
 http://file.trli.club/dns/ad-hosts.txt (搭配白名单使用)
 

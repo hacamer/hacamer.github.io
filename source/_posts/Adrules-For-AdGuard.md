@@ -1,3 +1,4 @@
+﻿swiper_index: 1
 cover: 'https://hacamer.coding.net/p/lite/d/text/git/raw/master/adguard.png'
 title: ' AdGuard规则'
 author: Hacamer
@@ -18,7 +19,7 @@ sticky: 3
 
 ### 更新时间：2021年6月7日12:07:48
 
-{% folding , 自定义过滤器 %} 
+{% folding , 自定义过滤器 %}
 adgk：https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt
 
 My AdFilters(for PC）：https://halflife.coding.net/p/list/d/list/git/raw/master/ad-pc.txt
@@ -66,7 +67,7 @@ https://hub.fastgit.org/hacamer/AdBlock-Rules-Mirror
 https://hacamer.coding.net/public/lite/AdBlock-Rules-Mirror/git/files
 {% endfolding %}
 
- 
+
 {% folding , 配置文件备份 %}
 
 https://share.weiyun.com/I7Fyjfs6
