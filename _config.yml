@@ -146,7 +146,7 @@ githubcalendar:
 
 history_calendar:
   priority: 4
-  enable: true
+  enable: flase
   enable_page: all
   layout:
     type: class
@@ -202,7 +202,7 @@ aplayer:
 # hexo-butterfly-swiper
 # see https://akilar.top/posts/8e1264d1/
 swiper:
-  enable: true # 开关
+  enable: flase # 开关
   priority: 5 #过滤器优先权
   enable_page: all # 应用页面
   timemode: date #date/updated

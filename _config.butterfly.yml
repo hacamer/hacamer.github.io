@@ -418,7 +418,7 @@ footer:
   owner:
     enable: true
     since: 2021
-  custom_text: <div><span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span><script src="/js/duration.js"></script></div><img alt="ip签名图片" scr="https://www.ipip5.com/ipimg">
+  custom_text: <div><span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span><script src="/js/duration.js"></script></div>
   copyright: true # Copyright of theme and framework
 
 # Analysis
