@@ -179,3 +179,9 @@ svg.icon {
             left: 0 !important;
             /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
           }
+
+/*解决“历史上的今天”插件中间白色背景问题*/
+#history-baidu *{
+background:var(--light bg color);
+}
+
