@@ -7,11 +7,12 @@ tags:
 categories: []
 date: 2021-06-07 13:51:00
 ---
+{% folding , 前言 %}
 看了看酷安里的很多教程，有部分都不完整
-所以，我写这篇算比较完整的，如有疑问请在评论区回复
-***************2021/5/29更新****************
+所以，我写这篇算比较完整的，如有疑问请在评论回复
+
 AdGuardHome改密码教程：[🔗链接](https://www.coolapk.com/feed/27158171?shareKey=ZjkyM2RlMDgzYjExNjBiMWE2ZTM~&shareUid=4065587&shareFrom=com.coolapk.market_11.2.2)
-***************************开头*****************************
+
 任何平台：Android(已root或magisk)  Windows  路由器(openwrt等)
 一些酷安教程：
 [🔗查看链接](https://www.coolapk.com/feed/20748381?shareKey=ZTE1MDI0NmFjNTlmNjA4Mzk4Yjc~&shareUid=4065587&shareFrom=com.coolapk.market_11.1.5-beta3)
@@ -19,8 +20,10 @@ AdGuardHome改密码教程：[🔗链接](https://www.coolapk.com/feed/27158171?
 [🔗查看链接](https://www.adgk.net/archives/20)
 
 还有一篇比较全的：[🔗查看链接](https://www.coolapk.com/feed/22322257?shareKey=ZTg2OGZhOTlkMDU1NjBiMWE4Njc~&shareUid=4065587&shareFrom=com.coolapk.market_11.2.2)
+{% endfolding %}
 
 本文以Android(magisk模块)为例子
+{% folding , 环境前提 %}
 需要：
 magisk20.4+
 arm64
@@ -36,6 +39,7 @@ magisk模块：
 刷入即可
 
 ![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/adgh/1626221997000.jpg)
+{% endfolding %}
 
 推荐配置
 
