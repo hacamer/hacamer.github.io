@@ -185,3 +185,9 @@ svg.icon {
 background:var(--light bg color);
 }
 
+
+@font-face{
+  font-family:'Youyuan' ;  /* 字体名自定义即可 */
+  src:url('https://cdn.jsdelivr.net/gh/hacamer/hacamer.github.io@master/YY.woff2'); /* 字体文件路径 */
+  font-display : swap;
+}
