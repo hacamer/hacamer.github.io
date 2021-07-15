@@ -191,3 +191,7 @@ background:var(--light bg color);
   src:url('https://cdn.jsdelivr.net/gh/hacamer/hacamer.github.io@master/YY.woff2'); /* 字体文件路径 */
   font-display : swap;
 }
+
+h1#site-title {
+  font-family: 'Youyuan', sans-serif;
+}
