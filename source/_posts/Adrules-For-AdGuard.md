@@ -1,4 +1,4 @@
-﻿swiper_index: 1
+swiper_index: 1
 cover: 'https://hacamer.coding.net/p/lite/d/text/git/raw/master/adguard.png'
 title: ' AdGuard规则'
 author: Hacamer
@@ -37,7 +37,8 @@ Adaway: https://hacamer.coding.net/p/lite/d/adaway.rule/git/raw/master/hosts.txt
 Hacamer的DNS规则：https://gitee.com/hacamer/some-web-advertising-rules/raw/master/some-rule(dns).txt
 
 白名单
-冷漠维护的白名单：https://cdn.jsdelivr.net/gh/Potterli20/filtering@master/filtering.txt
+
+冷漠维护的白名单：http://file.trli.club/dns/whitelist.txt
 {% endfolding %}
 
 {% folding , Hacamer的规则 %}
