@@ -81,7 +81,4 @@ https://hacamer.coding.net/p/adgurd/d/adgp/git/raw/master/adg_2021_6_1.json?down
 注:上面的配置文件配置的规则过滤效果非常强大，请酌情启用或禁用规则。另外，本人对小部分应用进行了白名单处理（即不拦截广告），请自行查看!
 ##### 以上过滤器不要加太多，多了会慢！建议只加3-4个
 
-### 本文链接
-```
-https://hacamer.github.io/Adrules-For-AdGuard/
-```
+
