@@ -15,6 +15,7 @@ sticky: 2
 {% folding , Some-rule(admin) Lite  %}
 Some-rule(admin)
 作者：Hacamer
+
 ```rules
 https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/some-rules(for-Mobile).txt
 ```
@@ -32,6 +33,7 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt
 {% folding ,  Not app %}
 Not app
 作者：Hacamer
+
 ```rules
 https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/not-app.txt
 ```
@@ -41,16 +43,19 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/not-app.txt
 {% folding , AdGuardDNS过滤器 %}
 AdGuardDNS过滤器
 作者：AdGuardTeam
+
 ```rules
 https://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt
 ```
 作用：等同于AdGuard其他过滤器的合并化简
 更新频率：4天
 {% endfolding %}
+
 {% folding , My AdFilters（for PC） %}
 My AdFilters（for PC）
 Halflife合并规则
 合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance并补充了贴吧过滤规则
+
 ```rules
 https://halflife.coding.net/p/list/d/list/git/raw/master/ad-pc.txt
 ```
@@ -61,6 +66,7 @@ https://halflife.coding.net/p/list/d/list/git/raw/master/ad-pc.txt
 {% folding , adgk %}
 adgk：
 作者：坂本dalao
+
 ```rules
 https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt
 ```
@@ -69,6 +75,7 @@ https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt
 {% endfolding %}
 {% folding , anti-ad %}
 anti-ad：
+
 ```rules
 https://hacamer.coding.net/p/lite/d/anti-AD/git/raw/master/anti-ad-adguard.txt
 ```
@@ -77,9 +84,19 @@ https://hacamer.coding.net/p/lite/d/anti-AD/git/raw/master/anti-ad-adguard.txt
 {% endfolding %}
 {% folding , AdGuard 移动设备过滤器 %}
 AdGuard 移动设备过滤器：
+
 ```rules
 https://raw.fastgit.org/hacamer/AdBlock-Rules-Mirror/master/AdGuard%20Phone%20Rules.txt
 ```
 更新频率：4天
 {% endfolding %}
+
+还有个很好用的规则，但我还没做cdn处理
+
+```rules
+https://filters.adtidy.org/android/filters/14_optimized.txt
+```
+
+对展开下文这种广告很好用
+
 
