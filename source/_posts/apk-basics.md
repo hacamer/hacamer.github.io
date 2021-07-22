@@ -6,6 +6,7 @@ tags: 折腾日记
 # 前言：软件这个词相信大家都很熟悉，可都有哪些软件好用呢，下面我会为大家分享安卓好用的软件![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Coolapk/coolapk_emotion_34_jizhi.png)
 
 ## No1.李跳跳-自动跳过广告
+链接：https://www.coolapk.com/apk/com.whatsbug.litiaotiao
 相信大家都对那些开屏广告很烦恼
 
 ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Coolapk/coolapk_emotion_58_dogeyuanliangta.png)
