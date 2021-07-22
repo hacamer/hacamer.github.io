@@ -40,8 +40,11 @@ Icon vector created by freepik
 {% endfolding %}
 
 ## No2. AdGuard-尽享安全且无广告的互联网体验。即刻获取保护！（全平台适用）
-https://adguard.com
-![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1626927035000.jpg)![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1626927143000.jpg)
+官方链接： https://adguard.com
+
+
+<img src="https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1626927035000.jpg" width="30%" height="30%">
+<img src="https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1626927143000.jpg" width="30%" height="30%">  
 
 AdGuard比上面的李跳跳更高级，但需要自行配置，，
 ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Coolapk/coolapk_emotion_36_ku.png)
