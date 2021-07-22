@@ -1,3 +1,4 @@
+---
 swiper_index: 3
 cover: 'https://adguard.com/img/products/home/home.png'
 title: AdGuardHome使用方法
@@ -5,6 +6,7 @@ author: Hacamer
 tags:
   - AdGuardHome
 categories: []
+abbrlink: 807
 date: 2021-06-07 13:51:00
 ---
 {% folding , 前言 %}

@@ -1,3 +1,4 @@
+---
 swiper_index: 1
 cover: 'https://hacamer.coding.net/p/lite/d/text/git/raw/master/adguard.png'
 title: ' AdGuard规则'
@@ -7,8 +8,9 @@ tags:
   - AdGuard规则
   - ''
 categories: []
-date: 2021-06-07 07:48:00
 sticky: 3
+abbrlink: 21834
+date: 2021-06-07 07:48:00
 ---
 ![AdGuard](https://hacamer.coding.net/p/lite/d/text/git/raw/master/adguard.png)
 

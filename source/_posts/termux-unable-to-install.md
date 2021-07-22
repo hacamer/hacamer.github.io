@@ -1,9 +1,10 @@
 ---
 title: 解决第一次使用Termux出现的unable to install的提示
-date: 2021-07-21 09:12
-tags: 
-    - 教程
-    - 折腾日记
+date: '2021-07-21 09:12'
+tags:
+  - 教程
+  - 折腾日记
+abbrlink: 1431
 ---
 很多小伙伴使用termux都肯定遇到过这个问题![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1626830030000.jpg)
 

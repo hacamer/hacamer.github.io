@@ -1,3 +1,4 @@
+---
 swiper_index: 2
 title: Via和X浏览器的广告规则
 author: Hacamer
@@ -5,8 +6,9 @@ tags:
   - 广告规则
   - via
 categories: []
-date: 2021-06-07 10:04:00
 sticky: 2
+abbrlink: 57230
+date: 2021-06-07 10:04:00
 ---
 ## 适用于via浏览器和x浏览器的广告规则
 ## 更新时间：2021年6月17日09:54:53

@@ -1,5 +1,7 @@
+---
 title: 关于AdGuard和AdGuardHome的问答
 author: Hacamer
+abbrlink: 34933
 date: 2021-06-08 11:23:45
 tags:
 ---
