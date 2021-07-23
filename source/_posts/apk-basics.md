@@ -143,7 +143,7 @@ TIM官方网站：office.qq.com
 ## No.7 一个木函
 被人安利到烂大街的小工具合集
 ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Coolapk/coolapk_emotion_103_nb.png)
-
+官网：https://web.woobx.cn/
 {% folding 应用介绍 %}
 这是一款集合类效率工具.
 
