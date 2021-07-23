@@ -1,3 +1,11 @@
+- class_name: HacamerのSVIP
+  class_desc: Hacamerの小窝的超级会员
+  link_list:
+    - name: 折木的小天地
+      link: https://iori-yimaga.top
+      avatar: https://cdn.jsdelivr.net/gh/Iori-yimaga/PicBed/MyBlog/avatar.jpg
+      descr: 当程序运行的那一刻，我知道是编译器对我的温柔
+
 - class_name: HacamerのVIP
   class_desc: 售后服务享五折优惠2333
   link_list:
@@ -17,10 +25,6 @@
       link: https://miaoermua.github.io/
       avatar: https://cdn.jsdelivr.net/gh/miaoermua/miaoermua.github.io/logo/weblogo.png
       descr: 喜欢分享一些东西 ୧(﹒ ᴗ﹒ )୨
-    - name: 折木的小天地   
-      link: https://iori-yimaga.top
-      avatar: https://cdn.jsdelivr.net/gh/Iori-yimaga/PicBed/MyBlog/avatar.jpg
-      descr: 当程序运行的那一刻，我知道是编译器对我的温柔
     - name: JIXIEJIDIGUAN
       link: http://jixiejidiguan.top/A2zml
       avatar: http://q1.qlogo.cn/g?b=qq&nk=3549518275&s=640
