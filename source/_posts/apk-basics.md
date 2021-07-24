@@ -1,7 +1,8 @@
 ---
 title: 折腾日记之安卓软件（入门篇）
-date: 2021-7-22 10:57:52
 tags: 折腾日记
+abbrlink: 53772
+date: 2021-07-22 10:57:52
 ---
 # 前言：软件这个词相信大家都很熟悉，可都有哪些软件好用呢，下面我会为大家分享安卓好用的软件![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Coolapk/coolapk_emotion_34_jizhi.png)
 
