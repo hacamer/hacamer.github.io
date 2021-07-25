@@ -8,7 +8,7 @@
 
 menu:
    主页: / || fas fa-home
-   导航: https://dhshacamer.vercel.app/ || fas fa-home
+   导航: https://home.hacamer.cf/ || fas fa-home
    档案: /archives/ || fas fa-archive
    标签: /tags/ || fas fa-tags
    类别: /categories/ || fas fa-folder-open
