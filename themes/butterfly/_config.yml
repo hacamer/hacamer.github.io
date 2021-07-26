@@ -15,7 +15,6 @@ menu:
    目录||fas fa-list:
      音乐: /music/ || fas fa-music
      电影: /movies/ || fas fa-video
-   友链: /link/ || fas fa-link
    目志||fas fa-comments:
      记录: /line/ || fas fa-bell
      说说: /artitalk/ || fas fa-bell
