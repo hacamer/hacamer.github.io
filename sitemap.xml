@@ -2,48 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.hacamer.tk/posts/About-AdGuard-and-AdGuardHome-/</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hacamer.tk/posts/AdGuardHomeUser/</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hacamer.tk/posts/Adrules-For-AdGuard/</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hacamer.tk/posts/all-adblock/</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hacamer.tk/posts/apk-basics/</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hacamer.tk/posts/chrome-kuozhan/</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.hacamer.tk/posts/kuandai-guide/</loc>
     
     <lastmod>2021-07-26</lastmod>
@@ -114,14 +72,14 @@
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/posts/logs-7-8/</loc>
+    <loc>https://www.hacamer.tk/posts/logs-7-7/</loc>
     
     <lastmod>2021-07-26</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/posts/logs-7-7/</loc>
+    <loc>https://www.hacamer.tk/posts/logs-7-8/</loc>
     
     <lastmod>2021-07-26</lastmod>
     
@@ -163,20 +121,6 @@
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/posts/MYN/</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hacamer.tk/posts/Adrules-for-via-x/</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.hacamer.tk/posts/cs/</loc>
     
     <lastmod>2021-07-26</lastmod>
@@ -185,6 +129,13 @@
   
   <url>
     <loc>https://www.hacamer.tk/about/index.html</loc>
+    
+    <lastmod>2021-07-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/friendcircle/index.html</loc>
     
     <lastmod>2021-07-26</lastmod>
     
@@ -233,6 +184,13 @@
   </url>
   
   <url>
+    <loc>https://www.hacamer.tk/tags/index.html</loc>
+    
+    <lastmod>2021-07-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.hacamer.tk/music/index.html</loc>
     
     <lastmod>2021-07-26</lastmod>
@@ -240,7 +198,56 @@
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/tags/index.html</loc>
+    <loc>https://www.hacamer.tk/posts/About-AdGuard-and-AdGuardHome-/</loc>
+    
+    <lastmod>2021-07-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/posts/MYN/</loc>
+    
+    <lastmod>2021-07-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/posts/Adrules-for-via-x/</loc>
+    
+    <lastmod>2021-07-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/posts/all-adblock/</loc>
+    
+    <lastmod>2021-07-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/posts/apk-basics/</loc>
+    
+    <lastmod>2021-07-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/posts/chrome-kuozhan/</loc>
+    
+    <lastmod>2021-07-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/posts/Adrules-For-AdGuard/</loc>
+    
+    <lastmod>2021-07-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/posts/AdGuardHomeUser/</loc>
     
     <lastmod>2021-07-26</lastmod>
     
@@ -256,21 +263,28 @@
 
   
   <url>
-    <loc>https://www.hacamer.tk/tags/AdGuardHome/</loc>
+    <loc>https://www.hacamer.tk/tags/%E5%9B%BE%E7%89%87/</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/tags/AdGuard/</loc>
+    <loc>https://www.hacamer.tk/tags/%E5%90%88%E9%9B%86/</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/tags/AdGuard%E8%A7%84%E5%88%99/</loc>
+    <loc>https://www.hacamer.tk/tags/%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99/</loc>
+    <lastmod>2021-07-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/tags/via/</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -305,28 +319,21 @@
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/tags/%E5%90%88%E9%9B%86/</loc>
+    <loc>https://www.hacamer.tk/tags/AdGuard/</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/tags/%E5%9B%BE%E7%89%87/</loc>
+    <loc>https://www.hacamer.tk/tags/AdGuard%E8%A7%84%E5%88%99/</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/tags/%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99/</loc>
-    <lastmod>2021-07-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hacamer.tk/tags/via/</loc>
+    <loc>https://www.hacamer.tk/tags/AdGuardHome/</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
