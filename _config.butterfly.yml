@@ -16,9 +16,11 @@ menu:
      音乐: /music/ || fas fa-music
      电影: /movies/ || fas fa-video
    友链: /link/ || fas fa-link
-   目志||fas fa-list:
+   目志||fas fa-comments:
      记录: /line/ || fas fa-bell
      说说: /artitalk/ || fas fa-bell
+     朋友圈: /friendcircle/ || fas fa-comments
+     友链: /link/ || fas fa-link
    关于: /about/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
@@ -867,6 +869,7 @@ inject:
     - <script async src="https://cdn.jsdelivr.net/npm/akilar-live2d-widget/autoload.min.js"></script>  #看板娘
     - <script async src="//at.alicdn.com/t/font_2624799_3esskhlhjyh.js"></script>
     - <div class="aplayer no-destroy" data-id="8044972711" data-server="tencent" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="true" muted></div>
+    - <script src="/js/moments.js"></script>
     #- <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fish.js"></script>
     #- <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
     #- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=537787665&auto=0&height=66"></iframe>
