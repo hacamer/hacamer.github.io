@@ -8,7 +8,7 @@
 
 menu:
    主页: / || fas fa-home
-   导航: https://dhshacamer.vercel.app/ || fas fa-home
+   导航: https://home.hacamer.cf/ || fas fa-home
    档案: /archives/ || fas fa-archive
    标签: /tags/ || fas fa-tags
    类别: /categories/ || fas fa-folder-open
@@ -16,9 +16,11 @@ menu:
      音乐: /music/ || fas fa-music
      电影: /movies/ || fas fa-video
    友链: /link/ || fas fa-link
-   目志||fas fa-list:
+   目志||fas fa-comments:
      记录: /line/ || fas fa-bell
      说说: /artitalk/ || fas fa-bell
+     朋友圈: /friendcircle/ || fas fa-comments
+     友链: /link/ || fas fa-link
    关于: /about/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
