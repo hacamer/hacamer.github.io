@@ -148,7 +148,7 @@ error_img:
 error_404:
   enable: true
   subtitle: '找不到对应网页'
-  background: https://cdn.jsdelivr.net/gh/hacamer/IMG@main/1624978306000.png
+  background: https://cdn.jsdelivr.net/gh/Iori-yimaga/PicBed@main/%E9%BB%84%E8%B1%86%E7%B2%89/HDF21.jpg
 
 post_meta:
   page: # Home Page
