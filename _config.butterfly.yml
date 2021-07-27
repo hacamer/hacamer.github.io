@@ -146,9 +146,9 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
-  subtitle: 'Page Not Found'
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  enable: true
+  subtitle: '找不到对应网页'
+  background: https://cdn.jsdelivr.net/gh/hacamer/IMG@main/1624978306000.png
 
 post_meta:
   page: # Home Page
@@ -192,7 +192,7 @@ toc:
 post_copyright:
   enable: true
   decode: true
-  license: CC BY-NC-SA 5.0Bate
+  license: CC BY-NC-SA 5.0 Bate
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Sponsor/reward
