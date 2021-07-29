@@ -102,12 +102,16 @@ https://raw.fastgit.org/hacamer/AdBlock-Rules-Mirror/master/AdGuard%20Phone%20Ru
 更新频率：4天
 {% endfolding %}
 
-还有个很好用的规则，但我还没做cdn处理
+还有个很好用的规则，~但我还没做cdn处理~
 
 ```rules
-https://filters.adtidy.org/android/filters/14_optimized.txt
+https://cdn.jsdelivr.net/gh/hacamer/AdBlock-Rules-Mirror@master/AdGuard-Annoyances-filter.txt
 ```
 
+```
+https://cdn.staticaly.com/gh/hacamer/AdBlock-Rules-Mirror/master/AdGuard-Annoyances-filter.txt
+```
+上面的两个地址不同 但规则相同！切勿重复订阅
 对展开下文这种广告很好用
 
 
