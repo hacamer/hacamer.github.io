@@ -11,9 +11,22 @@ abbrlink: 57230
 date: 2021-06-07 10:04:00
 ---
 ## 适用于via浏览器和x浏览器的广告规则
-## 更新时间：2021年7月29日16:59
+## 更新时间：2021年8月6日16:59
 ## Powerd By Hacamer @Cookapk
-## 以下过滤器不要加太多，多了会慢！建议只加3-4个
+~以下过滤器不要加太多，多了会慢！建议只加3-4个~
+以一敌十的规则
+
+AdGuard合并规则：
+```
+https://cdn.staticaly.com/gh/Cats-Team/AdRules/adguard.txt
+```
+
+AdKillrules：
+```
+https://cdn.staticaly.com/gh/Cats-Team/AdRules/AdKillRules.txt
+```
+
+{% folding , 折叠ing  %}
 {% folding , Some-rule(admin) Lite  %}
 Some-rule(admin)
 作者：Hacamer
@@ -111,6 +124,7 @@ https://cdn.jsdelivr.net/gh/hacamer/AdBlock-Rules-Mirror@master/AdGuard-Annoyanc
 ```
 https://cdn.staticaly.com/gh/hacamer/AdBlock-Rules-Mirror/master/AdGuard-Annoyances-filter.txt
 ```
+{% endfolding %}
 上面的两个地址不同 但规则相同！切勿重复订阅
 对展开下文这种广告很好用
 
