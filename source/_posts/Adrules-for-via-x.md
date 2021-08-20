@@ -18,12 +18,18 @@ date: 2021-06-07 10:04:00
 
 AdGuard合并规则：
 ```
-https://cdn.staticaly.com/gh/Cats-Team/AdRules/adguard.txt
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/AdKillRules.txt
 ```
 
 AdKillrules：
 ```
-https://cdn.staticaly.com/gh/Cats-Team/AdRules/AdKillRules.txt
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard.txt
+```
+
+Some-rule(admin):
+
+```rules
+https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt
 ```
 
 {% folding , 折叠ing  %}
@@ -32,7 +38,7 @@ Some-rule(admin)
 作者：Hacamer
 
 ```rules
-https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/some-rules(for-Mobile).txt
+https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/some-rules(for-Mobile).txt
 ```
 
 {% endfolding %}
@@ -41,7 +47,7 @@ Some-rule(admin)
 作者：Hacamer
 
 ```rules
-https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt
+https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt
 ```
 
 作用：去除部分广告，百度广告
@@ -53,7 +59,7 @@ Not app
 作者：Hacamer
 
 ```rules
-https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/not-app.txt
+https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/not-app.txt
 ```
 
 作用：去除部分APP打开
