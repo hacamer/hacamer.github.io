@@ -19,7 +19,10 @@ date: 2021-06-07 07:48:00
 
 ### Write By Hacamer For Coolapk
 
-### 更新时间：2021年6月7日12:07:48
+具体请看此篇 https://b23.tv/WjUSiF
+
+
+{% folding , 折叠 已弃用%}
 
 {% folding , 自定义过滤器 %}
 adgk：https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt
@@ -82,5 +85,7 @@ https://hacamer.coding.net/p/adgurd/d/adgp/git/raw/master/adg_2021_6_1.json?down
 这些规则AdGuardHome也可以用，但效果比AdGuard差一点,可以去试试
 注:上面的配置文件配置的规则过滤效果非常强大，请酌情启用或禁用规则。另外，本人对小部分应用进行了白名单处理（即不拦截广告），请自行查看!
 ##### 以上过滤器不要加太多，多了会慢！建议只加3-4个
+
+{% endfolding %}
 
 
