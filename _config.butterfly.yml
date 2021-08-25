@@ -717,8 +717,8 @@ newest_comments:
     enable: false
     forum:
     api_key:
-  twikoo: false
-  waline: true
+  twikoo: true
+  waline: false
 
 # Bottom right button (右下角按鈕)
 # --------------------------------------
