@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.hacamer.tk/posts/About-AdGuard-and-AdGuardHome-/</loc>
+    
+    <lastmod>2021-08-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/posts/AdGuardHomeUser/</loc>
+    
+    <lastmod>2021-08-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.hacamer.tk/posts/Adrules-For-AdGuard/</loc>
+    
+    <lastmod>2021-08-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.hacamer.tk/posts/Adrules-for-via-x/</loc>
     
     <lastmod>2021-08-25</lastmod>
@@ -163,14 +184,14 @@
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/artitalk/index.html</loc>
+    <loc>https://www.hacamer.tk/about/index.html</loc>
     
     <lastmod>2021-08-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.hacamer.tk/about/index.html</loc>
+    <loc>https://www.hacamer.tk/artitalk/index.html</loc>
     
     <lastmod>2021-08-25</lastmod>
     
@@ -232,27 +253,6 @@
     
   </url>
   
-  <url>
-    <loc>https://www.hacamer.tk/posts/Adrules-For-AdGuard/</loc>
-    
-    <lastmod>2021-08-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hacamer.tk/posts/About-AdGuard-and-AdGuardHome-/</loc>
-    
-    <lastmod>2021-08-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.hacamer.tk/posts/AdGuardHomeUser/</loc>
-    
-    <lastmod>2021-08-25</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://www.hacamer.tk/</loc>
@@ -261,6 +261,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://www.hacamer.tk/tags/AdGuardHome/</loc>
+    <lastmod>2021-08-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://www.hacamer.tk/tags/AdGuard/</loc>
@@ -327,13 +334,6 @@
   
   <url>
     <loc>https://www.hacamer.tk/tags/%E6%B2%99%E9%9B%95/</loc>
-    <lastmod>2021-08-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hacamer.tk/tags/AdGuardHome/</loc>
     <lastmod>2021-08-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
