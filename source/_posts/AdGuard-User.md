@@ -51,6 +51,12 @@ tls://c.passcloud.xyz
 https://public.dns.iij.jp/dns-query
 ```
 
+启用dns过滤，订阅Dnsfilter规则
+```
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
+```
+
+
 # 四、设置-隐身模式
 
 启动所有选项（销毁第一方Cookie除外）
