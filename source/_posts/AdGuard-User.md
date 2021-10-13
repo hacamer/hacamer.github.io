@@ -41,7 +41,7 @@ AdGuard是一款非常不错的软件，建议有能力可以入正支持
 若使用本人的规则，请关闭其他规则！避免规则重复！
 
 # 三、设置-DNS
-选择DNS服务器-添加自定义DNS服务器
+## 选择DNS服务器-添加自定义DNS服务器
 
 复制下段内容添加，DNS服务器名为‘无污染‘’
 ```
@@ -51,7 +51,7 @@ tls://c.passcloud.xyz
 https://public.dns.iij.jp/dns-query
 ```
 
-启用dns过滤，订阅Dnsfilter规则
+## 启用dns过滤，订阅Dnsfilter规则
 ```
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```
@@ -59,9 +59,9 @@ https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 
 # 四、设置-隐身模式
 
-启动所有选项（销毁第一方Cookie除外）
+## 启动所有选项（销毁第一方Cookie除外）
 
-部分内容填写：
+## 部分内容填写：
 
 销毁第三方Cookie 设为0
 
@@ -73,15 +73,15 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 11_7_0) AppleWebKit/535.11 (KHTML, like G
 
 # 五、扩展
 
-不推荐在AdGuard安装扩展
+## 不推荐在AdGuard安装扩展
 
 # 六、设置完成
 
-尽情享受无广告的时光吧😊😘
+## 尽情享受无广告的时光吧😊😘
 
 # 七、部分关于AdGuard问题
 
-AdGuard常见问题Q&A：https://www.adgk.net/archives/112
+## AdGuard常见问题Q&A：https://www.adgk.net/archives/112
 
 
 
