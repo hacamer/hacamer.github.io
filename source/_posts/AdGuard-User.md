@@ -34,7 +34,29 @@ AdGuard是一款非常不错的软件，建议有能力可以入正支持
 
 3.过滤器设置（全平台）
 
-自定义过滤器：见AdGuard规则篇
+自定义过滤器：
+
+AdGuard合并规则：
+```rules
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/AdKillRules.txt
+```
+
+AdKillrules：
+```rules
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard.txt
+```
+
+Some-rule(admin):
+
+```rules
+https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt
+```
+
+Hacamer's URL Filter
+
+```rules
+https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
+```
 
 不建议添加太多自定义过滤器，一是会导致网页等打开速度变慢，二是可能误杀严重，使用体验变差。
 
