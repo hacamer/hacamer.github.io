@@ -2,76 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hacamer.ml/about/index.html</loc>
-    
-    <lastmod>2021-10-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.ml/artitalk/index.html</loc>
-    
-    <lastmod>2021-10-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.ml/categories/index.html</loc>
-    
-    <lastmod>2021-10-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.ml/friendcircle/index.html</loc>
-    
-    <lastmod>2021-10-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.ml/line/index.html</loc>
-    
-    <lastmod>2021-10-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.ml/link/index.html</loc>
-    
-    <lastmod>2021-10-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.ml/messageboard/index.html</loc>
-    
-    <lastmod>2021-10-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.ml/movies/index.html</loc>
-    
-    <lastmod>2021-10-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.ml/music/index.html</loc>
-    
-    <lastmod>2021-10-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.ml/tags/index.html</loc>
-    
-    <lastmod>2021-10-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://hacamer.ml/posts/APK-ALL/</loc>
     
     <lastmod>2021-10-13</lastmod>
@@ -262,6 +192,76 @@
   
   <url>
     <loc>https://hacamer.ml/posts/cs/</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.ml/about/index.html</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.ml/artitalk/index.html</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.ml/categories/index.html</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.ml/friendcircle/index.html</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.ml/line/index.html</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.ml/link/index.html</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.ml/messageboard/index.html</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.ml/movies/index.html</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.ml/music/index.html</loc>
+    
+    <lastmod>2021-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.ml/tags/index.html</loc>
     
     <lastmod>2021-10-13</lastmod>
     
