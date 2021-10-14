@@ -37,11 +37,13 @@ AdGuard是一款非常不错的软件，建议有能力可以入正支持
 ### 自定义过滤器：
 
 #### AdGuard合并规则：
+
 ```rules
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/AdKillRules.txt
 ```
 
 #### AdKillrules：
+
 ```rules
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard.txt
 ```
@@ -66,6 +68,7 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 ## 选择DNS服务器-添加自定义DNS服务器
 
 ### 复制下段内容添加，DNS服务器名为‘无污染‘’
+
 ```
 https://i.passcloud.xyz/dns-query
 https://a.passcloud.xyz/dns-query
@@ -74,7 +77,8 @@ https://public.dns.iij.jp/dns-query
 ```
 
 ## 启用dns过滤，订阅Dnsfilter规则
-```
+
+```Dnsfilter
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```
 
