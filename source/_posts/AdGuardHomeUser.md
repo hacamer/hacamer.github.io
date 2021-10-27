@@ -78,7 +78,8 @@ https://public.dns.iij.jp/dns-query
 # 规则设置
 
 ![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1635335990000.jpg)
-使用此规则
+
+## 使用此规则
 ```Dnsfilter
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```
