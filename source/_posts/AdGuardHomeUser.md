@@ -63,7 +63,6 @@ magisk模块：
 
 
 # DNS设置(Important!)
-![](https://hacamer.coding.net/p/lite/d/text/git/raw/master/dns.png)
 ### 推荐使用并行请求
 使用以下DNS
 ```dns
