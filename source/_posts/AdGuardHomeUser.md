@@ -31,9 +31,6 @@ magisk20.4+
 arm64
 灵活的大脑😜
 magisk模块：
-@Hacamer 的模块：
-[链接](https://www.coolapk.com/feed/26525782?shareKey=OTdhM2IzNzMxNjM5NjA4MzliYzk~&shareUid=4065587&shareFrom=com.coolapk.market_11.1.5-beta3)
-或者其他的也行)
 @top大佬 的模块（~模块更新频繁，适合多个方面~）：[链接](https://www.coolapk.com/feed/27076098?shareKey=MjIzZGQwMjE0YTIxNjBiMWEyZDQ~&shareUid=4065587&shareFrom=com.coolapk.market_11.2.2)
 @爱痴子 的模块（支持实时控制）：[链接](https://www.coolapk.com/feed/26590868?shareKey=ZmUwMWJlNDVhMWExNjBiMWEyZDQ~&shareUid=4065587&shareFrom=com.coolapk.market_11.2.2)
 
@@ -70,41 +67,22 @@ magisk模块：
 ### 推荐使用并行请求
 使用以下DNS
 ```dns
-https://doh.pub/dns-query
-https://dns.alidns.com/dns-query
+https://i.passcloud.xyz/dns-query
+https://a.passcloud.xyz/dns-query
+tls://c.passcloud.xyz
+https://public.dns.iij.jp/dns-query
 ```
 
 
 
 
-# 规则设置（自行适当增减）
-![规则](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/adgh/1626223266000.jpg)
-![白名单](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/adgh/1626223223000.jpg)
+# 规则设置
 
+![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1635335990000.jpg)
 
-{% folding , 广告规则 %}
-
-http://file.trli.club/dns/ad-hosts.txt (搭配白名单使用)
-
-http://file.trli.club/dns/whitelist.txt  (白名单,放进允许清单)
-
-http://file.trli.club/dns/ad-adblock.txt  (与 http://file.trli.club/dns/ad-hosts.txt 任一即可,但都要搭配白名单)
-
-~上面这些规则以一抵十233~
-
-~https://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt~
-
-~https://raw.fastgit.org/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt~
-
-~https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt~
-
-~https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt~
-
-~https://raw.fastgit.org/AdAway/adaway.github.io/master/hosts.txt~
-
-~https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt~
-{% endfolding %}
+```Dnsfilter
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
+```
 
 
 ### 其他待补充
-
