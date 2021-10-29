@@ -66,6 +66,13 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 ### 若使用本人的规则，请关闭其他规则！避免规则重复！
 
+## 关于用户过滤器
+
+### 如遇到无法屏蔽的广告，可以自己写规则并添加到用户过滤器
+![安卓](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1635501606000.png)
+
+点右下角的加号添加
+
 # 三、设置-DNS
 ## 选择DNS服务器-添加自定义DNS服务器
 
