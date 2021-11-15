@@ -16,7 +16,7 @@ date: 2021-06-07 10:04:00
 ~以下过滤器不要加太多，多了会慢！建议只加3-4个~
 以一敌十的规则
 
-AdKillrules：
+AdRules (For AdBlock)：
 ```
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
 ```
