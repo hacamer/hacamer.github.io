@@ -38,7 +38,7 @@ AdGuard是一款非常不错的软件，建议有能力可以入正支持
 
 ### 自定义过滤器：
 
-#### AdKillrules：
+#### AdRules (For AdBlock)：
 
 ```rules
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
