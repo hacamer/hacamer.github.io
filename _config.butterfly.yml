@@ -49,8 +49,6 @@ copy:
 social:
    Github: https://github.com/hacamer || icon-huaban88
    Email: mailto:hcamer145@gmail.com || icon-youjian
-   QQ: https://qm.qq.com/cgi-bin/qm/qr?k=2sofYORqKuKo3oJFKUv2yIWglY3R7JyZ&noverify=0 || icon-QQ
-   Bilibili: https://space.bilibili.com/480108220 || icon-bilibili-copy
 # search (搜索)
 # --------------------------------------
 
@@ -656,7 +654,7 @@ aside:
       enable: true
       icon: fab fa-qq
       text: 加入杏梢の小窝
-      link: https://jq.qq.com/?_wv=1027&k=DrFO9ZlB
+      link: https://t.me/joinchat/fqN_y9dy61BmZWE1
   card_announcement:
     enable: true
     content: 这是杏梢の博客（原Hacamerの博客）
