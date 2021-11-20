@@ -81,7 +81,6 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 ```
 https://i.passcloud.xyz/dns-query
 https://a.passcloud.xyz/dns-query
-tls://c.passcloud.xyz
 https://public.dns.iij.jp/dns-query
 ```
 
