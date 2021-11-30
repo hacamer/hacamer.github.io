@@ -84,7 +84,7 @@ https://a.passcloud.xyz/dns-query
 https://public.dns.iij.jp/dns-query
 ```
 
-## 启用dns过滤，订阅Dnsfilter规则
+## 启用dns过滤，订阅AdRules （For DNS）规则
 
 ```Dnsfilter
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
@@ -100,11 +100,6 @@ https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 销毁第三方Cookie 设为0
 
 
-隐藏UA（仅电脑端）：
-```
-Mozilla/5.0 (Macintosh; Intel Mac OS X 11_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/97.0.963.56 Safari/535.11
-```
-
 # 五、扩展
 
 ## 不推荐在AdGuard安装扩展
@@ -113,7 +108,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 11_7_0) AppleWebKit/535.11 (KHTML, like G
 
 ## 尽情享受无广告的时光吧😊😘
 
-# 七、部分关于AdGuard问题
+# 七、部分关于AdGuard问题（由坂本大佬摆写）
 
 ## AdGuard常见问题Q&A：https://www.adgk.net/archives/112
 
