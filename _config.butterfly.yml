@@ -48,7 +48,7 @@ copy:
 #   icon: link || the description
 social:
    Github: https://github.com/hacamer || icon-huaban88
-   Email: mailto:hcamer145@gmail.com || icon-youjian
+   Email: mailto:hacamer@protonmail.com || icon-youjian
 # search (搜索)
 # --------------------------------------
 
@@ -657,7 +657,7 @@ aside:
       link: https://t.me/joinchat/fqN_y9dy61BmZWE1
   card_announcement:
     enable: true
-    content: 这是杏梢の博客（原Hacamerの博客）</br> <iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe>
+    content: 这是杏梢の博客（原Hacamerの博客）
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
