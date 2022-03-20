@@ -9,7 +9,6 @@ tags:
 abbrlink: 45316
 ---
 {% gallery %}
-![1640434747995-169x300.jpeg](https://dd-static.jd.com/ddimg/jfs/t1/197010/19/20877/12644/623693efE6108de01/133c6be2c74219ec.jpg)
 ![p2.png](https://dd-static.jd.com/ddimg/jfs/t1/158211/28/29033/474554/623693f7Ef629826f/18361ec276ec1bad.png)
 ![1624978306000.png](https://dd-static.jd.com/ddimg/jfs/t1/126848/26/26263/471831/623693f7E9fccea77/fc0bed9c1b774895.png)
 ![p4.png](https://dd-static.jd.com/ddimg/jfs/t1/117350/3/21757/692167/623693fbE53f3dc1a/19930f178e02c96d.png)
