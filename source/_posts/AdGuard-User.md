@@ -7,12 +7,11 @@ tags:
 ---
 AdGuard 使用教程
 
-{% folding , 前言 %}
-本文介绍AdGuard的使用，规则和设置只适用Windows，Mac与安卓端。
 
-AdGuard是一款非常不错的软件，建议有能力可以入正支持
+> 本文介绍AdGuard的使用，规则和设置只适用Windows，Mac与安卓端。
+> AdGuard是一款非常不错的软件，建议有能力可以入正支持
 
-{% endfolding %}
+
 
 # 一、设置-常规
 自行设置，我个人使用设置如下
@@ -78,7 +77,7 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 复制下段内容添加，DNS服务器名为‘无污染‘’
 
-```
+```无污染DNS
 https://i.passcloud.xyz/dns-query
 https://a.passcloud.xyz/dns-query
 https://public.dns.iij.jp/dns-query
@@ -90,6 +89,10 @@ https://public.dns.iij.jp/dns-query
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```
 
+**如有需要，可订阅OISD Blocklist Full**
+```OISD Blocklist Full
+https://abp.oisd.nl/
+```
 
 # 四、设置-隐身模式
 
