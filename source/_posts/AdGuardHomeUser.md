@@ -9,42 +9,13 @@ categories: []
 abbrlink: 807
 date: 2021-06-07 13:51:00
 ---
-{% folding , 前言 %}
-看了看酷安里的很多教程，有部分都不完整
-所以，我写这篇算比较完整的，如有疑问请在评论回复
-
-AdGuardHome改密码教程：[🔗链接](https://www.coolapk.com/feed/27158171?shareKey=ZjkyM2RlMDgzYjExNjBiMWE2ZTM~&shareUid=4065587&shareFrom=com.coolapk.market_11.2.2)
-
-任何平台：Android(已root或magisk)  Windows  路由器(openwrt等)
-一些酷安教程：
-[🔗查看链接](https://www.coolapk.com/feed/20748381?shareKey=ZTE1MDI0NmFjNTlmNjA4Mzk4Yjc~&shareUid=4065587&shareFrom=com.coolapk.market_11.1.5-beta3)
-[🔗查看链接](https://www.coolapk.com/feed/20243472?shareKey=YzEwMDBlNTQzOWVmNjA4MzliNzE~&shareUid=4065587&shareFrom=com.coolapk.market_11.1.5-beta3)
-[🔗查看链接](https://www.adgk.net/archives/20)
-
-还有一篇比较全的：[🔗查看链接](https://www.coolapk.com/feed/22322257?shareKey=ZTg2OGZhOTlkMDU1NjBiMWE4Njc~&shareUid=4065587&shareFrom=com.coolapk.market_11.2.2)
-{% endfolding %}
-
-本文以Android(magisk模块)为例子
-{% folding , 环境前提 %}
-需要：
-magisk20.4+
-arm64
-灵活的大脑😜
-magisk模块：
-@top大佬 的模块（~模块更新频繁，适合多个方面~）：[链接](https://www.coolapk.com/feed/27076098?shareKey=MjIzZGQwMjE0YTIxNjBiMWEyZDQ~&shareUid=4065587&shareFrom=com.coolapk.market_11.2.2)
-@爱痴子 的模块（支持实时控制）：[链接](https://www.coolapk.com/feed/26590868?shareKey=ZmUwMWJlNDVhMWExNjBiMWEyZDQ~&shareUid=4065587&shareFrom=com.coolapk.market_11.2.2)
-
-
-刷入即可
-
-![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/adgh/1626221997000.jpg)
-{% endfolding %}
+# AdGuardHome使用方法
 
 推荐配置
 
 # 常规设置
 
-![](https://hacamer.coding.net/p/lite/d/text/git/raw/master/jichushezhi.jpeg)
+![](https://hacamer.coding.net/p/lite/d/text/git/raw/master/jichushezhi.jpeg)  
 简单介绍下功能
 
 过滤器更新间隔：DNS 过滤清单默认更新间隔，一般为1小时~24小时
@@ -65,24 +36,43 @@ magisk模块：
 # DNS设置(Important!)
 ### 推荐使用并行请求
 使用以下DNS
-```dns
+```https
 https://i.passcloud.xyz/dns-query
 https://a.passcloud.xyz/dns-query
 tls://c.passcloud.xyz
 https://public.dns.iij.jp/dns-query
 ```
 
-
+本人使用的DNS大合集
+```https
+#国外DNS
+https://doh.dns.sb/dns-query
+https://9.9.9.10/dns-query
+https://public.dns.iij.jp/dns-query
+https://1.0.0.1/dns-query
+https://45.11.45.11/dns-query
+https://94.140.14.140/dns-query
+#国内DNS
+quic://x.passcloud.xyz:784
+https://i.233py.com/dns-query
+https://v.233py.com/dns-query
+https://dns.233py.com/dns-query
+```
 
 
 # 规则设置
+![image.png](https://dd-static.jd.com/ddimg/jfs/t1/114633/13/23148/116689/62369669E40a284e6/30f427a038f059a0.png)
 
-![](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1635335990000.jpg)
-
-## 使用此规则
-```Dnsfilter
+## 规则
+```https
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```
-
+```https
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock+adguard.txt
+```
+更强的规则OISD Blocklist Full
+```https
+https://raw.iqiq.io/ookangzheng/dbl-oisd-nl/master/abp.txt
+```
 
 ### 其他待补充
