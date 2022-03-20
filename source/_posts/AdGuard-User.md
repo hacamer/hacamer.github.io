@@ -5,8 +5,8 @@ tags:
    - AdGuard
    - 教程
 ---
-AdGuard 使用教程
-
+<h2 align="center"><strong>AdGuard 使用教程</strong></h2>
+<br>
 
 > 本文介绍AdGuard的使用，规则和设置只适用Windows，Mac与安卓端。
 > AdGuard是一款非常不错的软件，建议有能力可以入正支持
@@ -39,25 +39,25 @@ AdGuard 使用教程
 
 AdRules (For AdBlock)：
 
-```rules
+```rule
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
 ```
 
 AdGuard合并规则：
 
-```rules
+```rule
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard.txt
 ```
 
 Some-rule(admin):
 
-```rules
+```rule
 https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt
 ```
 
 Hacamer's URL Filter
 
-```rules
+```rule
 https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 ```
 
@@ -77,7 +77,7 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 复制下段内容添加，DNS服务器名为‘无污染‘
 
-```无污染DNS
+```http
 https://i.passcloud.xyz/dns-query
 https://a.passcloud.xyz/dns-query
 https://public.dns.iij.jp/dns-query
@@ -85,12 +85,12 @@ https://public.dns.iij.jp/dns-query
 
 **启用dns过滤，订阅AdRules （For DNS）规则**
 
-```Dnsfilter
+```http
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```
 
 **如有需要，可订阅OISD Blocklist Full**
-```OISD Blocklist Full
+```http
 https://abp.oisd.nl/
 ```
 
