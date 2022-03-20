@@ -39,25 +39,25 @@ tags:
 
 AdRules (For AdBlock)：
 
-```rule
+```https
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
 ```
 
 AdGuard合并规则：
 
-```rule
+```https
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard.txt
 ```
 
 Some-rule(admin):
 
-```rule
+```https
 https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt
 ```
 
 Hacamer's URL Filter
 
-```rule
+```https
 https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 ```
 
