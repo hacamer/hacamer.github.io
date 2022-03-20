@@ -11,9 +11,8 @@ tags:
 > 本文介绍AdGuard的使用，规则和设置只适用Windows，Mac与安卓端。
 > AdGuard是一款非常不错的软件，建议有能力可以入正支持
 
-
-
 # 一、设置-常规
+
 自行设置，我个人使用设置如下
 
 1.主题-系统默认
@@ -27,6 +26,7 @@ tags:
 5.高级设置-重定向驱动模式（电脑端，win）
 
 # 二、设置-内容拦截
+
 自行设置，我个人使用设置如下
 
 1.打开高品质过滤方式（手机端）
@@ -73,6 +73,7 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 点右下角的加号添加
 
 # 三、设置-DNS
+
 **选择DNS服务器-添加自定义DNS服务器**
 
 复制下段内容添加，DNS服务器名为‘无污染‘
@@ -90,6 +91,7 @@ https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```
 
 **如有需要，可订阅OISD Blocklist Full**
+
 ```http
 https://abp.oisd.nl/
 ```
@@ -102,7 +104,6 @@ https://abp.oisd.nl/
 
 销毁第三方Cookie 设为0
 
-
 # 五、扩展
 
 **不推荐在AdGuard安装扩展**
@@ -114,6 +115,3 @@ https://abp.oisd.nl/
 # 七、部分关于AdGuard问题（由坂本大佬摆写）
 
 AdGuard常见问题Q&A：https://www.adgk.net/archives/112
-
-
-
