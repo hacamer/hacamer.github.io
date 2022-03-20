@@ -75,7 +75,7 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 # 三、设置-DNS
 **选择DNS服务器-添加自定义DNS服务器**
 
-复制下段内容添加，DNS服务器名为‘无污染‘’
+复制下段内容添加，DNS服务器名为‘无污染‘
 
 ```无污染DNS
 https://i.passcloud.xyz/dns-query
