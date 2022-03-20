@@ -64,13 +64,19 @@ https://dns.233py.com/dns-query
 ![image.png](https://dd-static.jd.com/ddimg/jfs/t1/114633/13/23148/116689/62369669E40a284e6/30f427a038f059a0.png)
 
 ## 规则
+**AdRules DNS List**
 ```https
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```
+**AdRules Adblock Plus List**
 ```https
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock+adguard.txt
 ```
-更强的规则OISD Blocklist Full
+**FastHosts List**
+```https
+https://raw.iqiq.io/hacamer/filtering/master/hosts
+```
+更强的规则**OISD Blocklist Full**
 ```https
 https://raw.iqiq.io/ookangzheng/dbl-oisd-nl/master/abp.txt
 ```
