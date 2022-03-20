@@ -7,7 +7,13 @@ date: 2021-07-22 10:57:52
 # 前言：软件这个词相信大家都很熟悉，可都有哪些软件好用呢，下面我会为大家分享安卓好用的软件![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Coolapk/coolapk_emotion_34_jizhi.png)
 
 ## No.1 李跳跳-自动跳过广告
-链接：https://www.coolapk.com/apk/com.whatsbug.litiaotiao
+~链接：https://www.coolapk.com/apk/com.whatsbug.litiaotiao~
+酷安已下架 
+
+蓝奏云备份
+https://hacamer.lanzouq.com/igU4z01qjauh 
+密码objk
+
 相信大家都对那些开屏广告很烦恼
 
 ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Coolapk/coolapk_emotion_58_dogeyuanliangta.png)
@@ -214,7 +220,7 @@ Email：support@woobx.cn
 可惜应用商店的那个版本已经不纯净了  
 我这里传了一个   
 <img src="https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1626999681000.jpg" width="30%" height="30%">  
-蓝奏云：https://theshong.lanzoui.com/iade4rqsduj 密码：one   
+蓝奏云：https://hacamer.lanzoui.com/iade4rqsduj 密码：one   
 
 
 暂时先写到这，溜了溜了![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Coolapk/coolapk_emotion_64_shounuehuaji.png)
