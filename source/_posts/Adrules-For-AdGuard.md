@@ -18,7 +18,7 @@ date: 2021-06-07 07:48:00
 ### AdGuard规则 AdGuard
 
 电脑版AdGuard可直接使用AdRules AdBlock Full List
-```adrules adblock full list
+```link
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock+adguard.txt
 ```
 手机慎用
