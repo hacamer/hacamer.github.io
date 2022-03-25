@@ -78,10 +78,16 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 复制下段内容添加，DNS服务器名为‘无污染‘
 
-```http
+```https
 https://i.passcloud.xyz/dns-query
 https://a.passcloud.xyz/dns-query
 https://public.dns.iij.jp/dns-query
+https://i.233py.com/dns-query
+https://v.233py.com/dns-query
+https://dns.233py.com/dns-query
+quic://x.passcloud.xyz:784
+quic://c.passcloud.xyz:784
+quic://h.iqiq.io:784
 ```
 
 **启用dns过滤，订阅AdRules （For DNS）规则**
