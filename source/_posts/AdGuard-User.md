@@ -66,21 +66,18 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 **若使用本人的规则，可关闭其他规则！避免规则重复！**
 
----
-
-
 **一些额外可开启的过滤器**
 
-1. 隐私
+隐私
 
 - AdGuard防跟踪过滤器
 
-2. 烦人
+烦人
 
 - Fanboy 's Annoyances
 - Web Annoyances Ultralist
 
-3. 安全
+安全
 
 - 在线恶意URL拦截列表
 - NoCoin过滤列表
@@ -130,6 +127,8 @@ https://abp.oisd.nl/
 部分内容填写：
 
 销毁第三方Cookie 设为0
+
+其他设置建议默认
 
 # 五、扩展
 
