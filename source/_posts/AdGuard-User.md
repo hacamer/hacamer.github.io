@@ -63,7 +63,20 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 **不建议添加太多自定义过滤器，一是会导致网页等打开速度变慢，二是可能误杀严重，使用体验变差。**
 
-**若使用本人的规则，请关闭其他规则！避免规则重复！**
+**若使用本人的规则，可关闭其他规则！避免规则重复！**
+
+**一些额外可开启的过滤器**  
+
+ 隐私
+- AdGuard防跟踪过滤器
+
+烦人
+- Fanboy 's Annoyances
+- Web Annoyances Ultralist
+
+ 安全
+- 在线恶意URL拦截列表
+- NoCoin过滤列表
 
 ## 关于用户过滤器
 
@@ -77,7 +90,7 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 **选择DNS服务器-添加自定义DNS服务器**
 
 复制下段内容添加，DNS服务器名为‘无污染‘
-
+Ps：DNS较多，请酌情剔除
 ```https
 https://i.passcloud.xyz/dns-query
 https://a.passcloud.xyz/dns-query
