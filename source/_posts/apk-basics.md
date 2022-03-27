@@ -220,7 +220,7 @@ Email：support@woobx.cn
 可惜应用商店的那个版本已经不纯净了  
 我这里传了一个   
 <img src="https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1626999681000.jpg" width="30%" height="30%">  
-蓝奏云：https://hacamer.lanzoui.com/iade4rqsduj 密码：one   
+蓝奏云：https://www.lanzoui.com/iade4rqsduj 密码：one   
 
 
 暂时先写到这，溜了溜了![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Coolapk/coolapk_emotion_64_shounuehuaji.png)
