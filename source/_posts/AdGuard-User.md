@@ -5,6 +5,7 @@ tags:
    - AdGuard
    - 教程
 ---
+
 <h2 align="center"><strong>AdGuard 使用教程</strong></h2>
 <br>
 
@@ -65,16 +66,22 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 **若使用本人的规则，可关闭其他规则！避免规则重复！**
 
-**一些额外可开启的过滤器**  
+---
 
- 隐私
+
+**一些额外可开启的过滤器**
+
+1. 隐私
+
 - AdGuard防跟踪过滤器
 
-烦人
+2. 烦人
+
 - Fanboy 's Annoyances
 - Web Annoyances Ultralist
 
- 安全
+3. 安全
+
 - 在线恶意URL拦截列表
 - NoCoin过滤列表
 
@@ -91,6 +98,7 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 复制下段内容添加，DNS服务器名为‘无污染‘
 Ps：DNS较多，请酌情剔除
+
 ```https
 https://i.passcloud.xyz/dns-query
 https://a.passcloud.xyz/dns-query
@@ -134,3 +142,4 @@ https://abp.oisd.nl/
 # 七、部分关于AdGuard问题（由坂本大佬摆写）
 
 AdGuard常见问题Q&A：https://www.adgk.net/archives/112
+
