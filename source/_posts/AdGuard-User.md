@@ -66,6 +66,8 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 **若使用本人的规则，可关闭其他规则！避免规则重复！**
 
+**一个问题，如果你的AdGuard拦截的跟踪器为0，请开启“AdGuard防跟踪过滤器”**
+
 **一些额外可开启的过滤器**
 
 隐私
