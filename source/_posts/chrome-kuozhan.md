@@ -145,7 +145,7 @@ https://crowdin.net/project/ublock
 
 项目更新日志：
 https://github.com/gorhill/uBlock/releases
-{% endfolding}
+{% endfolding %}
 
 ## 沙拉查词：聚合词典划词翻译
 Chrome网上商店链接：[🔗查看链接](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg)
