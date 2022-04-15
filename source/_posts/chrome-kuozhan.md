@@ -83,6 +83,66 @@ https://github.com/AdGuardTeam/AdGuardBrowserExtension
 
 {% endfolding %}
 
+## uBlock Origin - 高效广告过滤
+继AdGuard插件 uBlock Origin也是一个优秀的过滤工具
+相比较与AdGuard，uBlock Origin具有轻量性
+建议配置低的电脑以及手机Kiwi浏览器安装此插件
+官方描述
+{% folding 查看uBlock Origin官方概括 %}
+一款高效的请求过滤工具：占用极低的内存和 CPU，与其他常见的过滤器相比，它能够多加载并执行上千条过滤规则。
+
+带图表的效率概述说明： 
+https://github.com/gorhill/uBlock/wiki/uBlock-vs.-ABP:-efficiency-compared
+
+用法：点击弹出窗口中的电源按钮，uBlock 将对当前网站永久禁用/启用过滤功能。 它仅应用于当前网站，而非全局性的开关。
+
+***
+
+它很灵活，不只是一个“广告拦截器”：它还能从 hosts 文件中读取、创建过滤规则。
+
+初始默认加载和执行下列过滤规则：
+
+- EasyList
+- Peter Lowe’s Ad server list
+- EasyPrivacy
+- Malware domains
+
+这里还有更多规则列表可供您选择：
+
+- Fanboy’s Enhanced Tracking List
+- Dan Pollock’s hosts file
+- hpHosts’s Ad and tracking servers
+- MVPS HOSTS
+- Spam404
+- 等等
+
+当然，启用的过滤规则越多，占用的内存也就越高。 然而，即使再添加 Fanboy 的两个额外规则列表与 hpHosts’s Ad and tracking servers，uBlock 的内存占用依然比其他流行的过滤器更低。
+
+另外，请注意，一些额外的规则列表可能会导致网站出现错误 —— 尤其是那些一般被作为 hosts 文件使用的列表。
+
+***
+
+没有这些过滤规则列表，这个扩展就没有了意义。 所以如果你真的想做点贡献，想想那些维护过滤规则的人们，是他们让所有人能够免费使用这一切变得可能。
+
+***
+
+自由并且免费。
+使用 GPLv3 公共许可协议开源。
+来自用户，只为用户。
+
+Github 上的贡献者们：
+https://github.com/gorhill/uBlock/graphs/contributors
+Crowdin 上的翻译者们：
+https://crowdin.net/project/ublock
+
+***
+
+它还是一个相当早期的版本，在您评论的时候请记住这一点。
+
+项目更新日志：
+https://github.com/gorhill/uBlock/releases
+{% endfolding}
+
 ## 沙拉查词：聚合词典划词翻译
 Chrome网上商店链接：[🔗查看链接](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg)
 
