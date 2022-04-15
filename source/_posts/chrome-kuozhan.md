@@ -84,9 +84,13 @@ https://github.com/AdGuardTeam/AdGuardBrowserExtension
 {% endfolding %}
 
 ## uBlock Origin - 高效广告过滤
+
+[Chrome 商店链接🔗](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+
 继AdGuard插件 uBlock Origin也是一个优秀的过滤工具
 相比较与AdGuard，uBlock Origin具有轻量性
 建议配置低的电脑以及手机Kiwi浏览器安装此插件
+
 官方描述
 {% folding 查看uBlock Origin官方概括 %}
 一款高效的请求过滤工具：占用极低的内存和 CPU，与其他常见的过滤器相比，它能够多加载并执行上千条过滤规则。
