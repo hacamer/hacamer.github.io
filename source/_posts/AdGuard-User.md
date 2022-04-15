@@ -34,6 +34,8 @@ tags:
 
 2.打开拦截所有应用内的广告（手机端）
 
+<img style="max-width:100%;overflow:hidden;" src="https://dd-static.jd.com/ddimg/jfs/t1/97756/10/25971/8670/6258d114Edf5437e0/5b41c6f237ef315b.png" alt="image.png" title="image.png" />
+
 3.过滤器设置（全平台）
 
 自定义过滤器：
@@ -61,6 +63,8 @@ Hacamer's URL Filter
 ```https
 https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 ```
+
+<img style="max-width:100%;overflow:hidden;" src="https://dd-static.jd.com/ddimg/jfs/t1/148267/40/27793/52653/6258d4b9Ea8148e59/089c9b2d1a2c9458.png" alt="image.png" title="image.png" />
 
 **不建议添加太多自定义过滤器，一是会导致网页等打开速度变慢，二是可能误杀严重，使用体验变差。**
 
@@ -96,19 +100,17 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 **选择DNS服务器-添加自定义DNS服务器**
 
 复制下段内容添加，DNS服务器名为‘无污染‘
-Ps：DNS较多，请酌情剔除
+Ps：DNS较多，请酌情剔除  
+<img style="max-width:100%;overflow:hidden;" src="https://dd-static.jd.com/ddimg/jfs/t1/119498/14/24341/37515/6258d287E3c17f5d1/c54d7d2041a1e2ce.png" alt="image.png" title="image.png" />
 
 ```https
-https://i.passcloud.xyz/dns-query
-https://a.passcloud.xyz/dns-query
-https://public.dns.iij.jp/dns-query
 https://i.233py.com/dns-query
-https://v.233py.com/dns-query
 https://dns.233py.com/dns-query
 quic://x.passcloud.xyz:784
 quic://c.passcloud.xyz:784
 quic://h.iqiq.io:784
 ```
+
 
 **启用dns过滤，订阅AdRules （For DNS）规则**
 
@@ -116,11 +118,13 @@ quic://h.iqiq.io:784
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```
 
-**如有需要，可订阅OISD Blocklist Full**
+**如有需要，可订阅Notracking**
 
 ```http
-https://abp.oisd.nl/
+https://raw.iqiq.io/notracking/hosts-blocklists/master/adblock/adblock.txt
 ```
+
+<img style="max-width:100%;overflow:hidden;" src="https://dd-static.jd.com/ddimg/jfs/t1/91654/21/23577/34846/6258d3fbEcbda5354/b96c66a339d59ab9.png" alt="image.png" title="image.png" />
 
 # 四、设置-隐身模式
 
