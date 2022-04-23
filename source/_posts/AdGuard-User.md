@@ -24,7 +24,7 @@ tags:
 
 4.其它-通知设置-全部打开（手机端）
 
-5.高级设置-重定向驱动模式（电脑端，win）
+5.高级设置-重定向驱动模式（电脑端，Windows）
 
 # 二、设置-内容拦截
 
@@ -72,7 +72,8 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 **一个问题，如果你的AdGuard拦截的跟踪器为0，请开启“AdGuard防跟踪过滤器”**
 
-**一些额外可开启的过滤器**
+**一些额外可开启的过滤器**  
+![mac-filter](https://dd-static.jd.com/ddimg/jfs/t1/185842/11/23427/562990/62634ba5Efd2d9235/1cb1a3fba10181d2.png)
 
 隐私
 
@@ -112,8 +113,8 @@ quic://h.iqiq.io:784
 ```
 
 
-**启用dns过滤，订阅AdRules （For DNS）规则**
-
+**启用dns过滤，订阅AdRules （For DNS）规则**  
+![mac-dns-filter](https://dd-static.jd.com/ddimg/jfs/t1/98771/7/20709/432860/62634c48E964b5e0c/4216aa8d7863acb6.png)  
 ```http
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```
@@ -139,8 +140,16 @@ https://raw.iqiq.io/notracking/hosts-blocklists/master/adblock/adblock.txt
 # 五、扩展
 
 **不推荐在AdGuard安装扩展**
+**建議在瀏覽器内安裝**
 
-# 六、设置完成
+關閉AdGuard自動檢測用戶脚本  
+Windows：  
+設置-擴展-取消勾選“自動檢測用戶脚本”  
+![userscript-windows](https://dd-static.jd.com/ddimg/jfs/t1/50039/19/17637/57777/62634d5fEfb9ea2ac/2b6e0d51b62f0da1.png)  
+Mac：  
+高級設置-subscription.link.interception.userscript-調成false   
+![userscript-mac](https://dd-static.jd.com/ddimg/jfs/t1/25251/5/15820/27659/62634e01E660e9d36/9ba674d758046438.png)   
+# 六、设置完成 
 
 **尽情享受无广告的时光吧😊😘**
 
@@ -148,3 +157,12 @@ https://raw.iqiq.io/notracking/hosts-blocklists/master/adblock/adblock.txt
 
 AdGuard常见问题Q&A：https://www.adgk.net/archives/112
 
+# 備注
+如果你搭配了Clash等網絡工具使用，請開啓過濾本地連接
+Windows：
+設置-常規-高級設置-過濾本地連接
+![localhosts-filtering-windows](https://dd-static.jd.com/ddimg/jfs/t1/188465/27/23953/61729/62634e77E0207b9f8/a83ed13a87fa4763.png)  
+
+Mac：
+高級設置- network.filtering.localnetwork 和 network.filtering.localhost 調成true
+![localhosts-filtering-mac](https://dd-static.jd.com/ddimg/jfs/t1/88396/8/26674/33588/62634f41Eba57c5d4/77c83e27fa508820.png)
