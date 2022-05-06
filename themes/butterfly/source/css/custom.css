@@ -196,4 +196,30 @@ h1#site-title {
   font-family: 'Youyuan', sans-serif;
 }
 
-backdrop-filter: blur(10px);
+.card {
+  width: 400px;
+  height: auto;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.card-title {
+  margin-top: 0;
+  margin-bottom: .5rem;
+  font-size: 1.2rem;
+}
+
+p, a {
+  font-size: 1rem;
+}
+
+a {
+  color: #4d4ae8;
+  text-decoration: none;
+}
+.card {
+	/* other styles */
+	background: rgba(255, 255, 255, .7);
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+}
