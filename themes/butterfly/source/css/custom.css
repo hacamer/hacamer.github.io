@@ -195,3 +195,5 @@ background:var(--light bg color);
 h1#site-title {
   font-family: 'Youyuan', sans-serif;
 }
+
+backdrop-filter: blur(10px);
