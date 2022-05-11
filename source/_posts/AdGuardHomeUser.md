@@ -76,9 +76,21 @@ https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock+adguard.tx
 ```https
 https://raw.iqiq.io/hacamer/filtering/master/hosts
 ```
-更强的规则**OISD Blocklist Full**
+额外的规则
+**OISD Blocklist Full**
 ```https
 https://raw.iqiq.io/ookangzheng/dbl-oisd-nl/master/abp.txt
 ```
-
+**StevenBlack**
+```https
+https://raw.iqiq.io/StevenBlack/hosts/master/alternates/social/hosts
+```
+**Notrack-blocklist**
+```https
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
+```
+**Notracking**
+```https
+https://raw.iqiq.io/notracking/hosts-blocklists/master/adblock/adblock.txt
+```
 ### 其他待补充
