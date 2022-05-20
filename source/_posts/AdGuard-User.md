@@ -40,7 +40,7 @@ tags:
 
 自定义过滤器：
 
-AdRules (For AdBlock)：
+AdRules AdBlock List：
 
 ```https
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
@@ -92,7 +92,7 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 ## 关于用户过滤器
 
 如遇到无法屏蔽的广告，可以自己写规则并添加到用户过滤器
-![安卓](https://cdn.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1635501606000.png)
+![安卓](https://fastly.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1635501606000.png)
 
 点右下角的加号添加
 
@@ -100,8 +100,16 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 **选择DNS服务器-添加自定义DNS服务器**
 
-复制下段内容添加，DNS服务器名为‘无污染‘
-Ps：DNS较多，请酌情剔除  
+如果你不在乎污染且没有外网需求建议直接使用国内DNS
+
+`国内DNS`
+```
+tls://dot.pub
+https://doh.pub/dns-query
+tls://dns.alidns.com
+https://dns.alidns.com/dns-query
+```
+`无污染`DNS
 <img style="max-width:100%;overflow:hidden;" src="https://dd-static.jd.com/ddimg/jfs/t1/119498/14/24341/37515/6258d287E3c17f5d1/c54d7d2041a1e2ce.png" alt="image.png" title="image.png" />
 
 ```https
@@ -140,14 +148,14 @@ https://raw.iqiq.io/notracking/hosts-blocklists/master/adblock/adblock.txt
 # 五、扩展
 
 **不推荐在AdGuard安装扩展**
-**建議在瀏覽器内安裝**
+**建议在浏览器内安裝**
 
-關閉AdGuard自動檢測用戶脚本  
+关闭AdGuard自动检测用户脚本
 Windows：  
-設置-擴展-取消勾選“自動檢測用戶脚本”  
+设置-扩展-取消勾选“自动检测用户脚本”
 ![userscript-windows](https://dd-static.jd.com/ddimg/jfs/t1/50039/19/17637/57777/62634d5fEfb9ea2ac/2b6e0d51b62f0da1.png)  
 Mac：  
-高級設置-subscription.link.interception.userscript-調成false   
+高级设置-subscription.link.interception.userscript-调成false   
 ![userscript-mac](https://dd-static.jd.com/ddimg/jfs/t1/25251/5/15820/27659/62634e01E660e9d36/9ba674d758046438.png)   
 # 六、设置完成 
 
@@ -157,12 +165,12 @@ Mac：
 
 AdGuard常见问题Q&A：https://www.adgk.net/archives/112
 
-# 備注
-如果你搭配了Clash等網絡工具使用，請開啓過濾本地連接
+# 备注
+如果你搭配了Clash等网络工具使用，请开启过滤本地连接
 Windows：
-設置-常規-高級設置-過濾本地連接
+设置-常规-高级设置-过滤本地连接
 ![localhosts-filtering-windows](https://dd-static.jd.com/ddimg/jfs/t1/188465/27/23953/61729/62634e77E0207b9f8/a83ed13a87fa4763.png)  
 
 Mac：
-高級設置- network.filtering.localnetwork 和 network.filtering.localhost 調成true
+高级设置 - network.filtering.localnetwork 和 network.filtering.localhost 调成true
 ![localhosts-filtering-mac](https://dd-static.jd.com/ddimg/jfs/t1/88396/8/26674/33588/62634f41Eba57c5d4/77c83e27fa508820.png)
