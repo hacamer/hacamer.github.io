@@ -100,7 +100,7 @@ https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
 
 **选择DNS服务器-添加自定义DNS服务器**
 
-如果你不在乎污染且没有外网需求建议直接使用国内DNS
+如果你**不在乎污染且没有外网需求**建议直接使用`国内DNS`
 
 `国内DNS`
 ```
@@ -112,7 +112,7 @@ https://dns.alidns.com/dns-query
 `无污染`DNS
 <img style="max-width:100%;overflow:hidden;" src="https://dd-static.jd.com/ddimg/jfs/t1/119498/14/24341/37515/6258d287E3c17f5d1/c54d7d2041a1e2ce.png" alt="image.png" title="image.png" />
 
-```https
+```
 https://i.233py.com/dns-query
 https://dns.233py.com/dns-query
 quic://x.passcloud.xyz:784
