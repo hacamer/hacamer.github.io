@@ -52,8 +52,8 @@ AdGuard合并规则：
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard.txt
 ```
 
-Some-rule(admin):
-
+Some-rule(admin):  
+**可能激进，慎用！**
 ```https
 https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt
 ```
