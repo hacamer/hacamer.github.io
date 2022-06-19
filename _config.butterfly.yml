@@ -657,7 +657,7 @@ aside:
       link: https://t.me/joinchat/fqN_y9dy61BmZWE1
   card_announcement:
     enable: true
-    content: 这是杏梢の博客（原Hacamerの博客）
+    content: 这是杏梢の博客，为了防止老年痴呆而弄的
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
