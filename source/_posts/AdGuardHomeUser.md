@@ -56,6 +56,10 @@ https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
 ```https
 https://raw.iqiq.io/hacamer/filtering/master/hosts
 ```
+**1hosts (Lite)**
+```
+https://ghproxy.futils.com/https://github.com/badmojr/1Hosts/blob/master/Lite/adblock.txt
+```
 额外的规则  
 **OISD Blocklist Full**
 ```https
