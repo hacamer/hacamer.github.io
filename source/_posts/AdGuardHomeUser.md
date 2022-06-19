@@ -37,28 +37,12 @@ date: 2021-06-07 13:51:00
 ### 推荐使用并行请求
 使用以下DNS
 ```https
-https://i.passcloud.xyz/dns-query
+https://a.passcloud.xyz/cdn
 https://a.passcloud.xyz/dns-query
 tls://c.passcloud.xyz
 https://public.dns.iij.jp/dns-query
-```
-
-本人使用的DNS大合集
-```https
-#国外DNS
-https://doh.dns.sb/dns-query
-https://9.9.9.10/dns-query
-https://public.dns.iij.jp/dns-query
-https://1.0.0.1/dns-query
-https://45.11.45.11/dns-query
-https://94.140.14.140/dns-query
-#国内DNS
-quic://x.passcloud.xyz:784
 https://i.233py.com/dns-query
-https://v.233py.com/dns-query
-https://dns.233py.com/dns-query
 ```
-
 
 # 规则设置
 ![image.png](https://dd-static.jd.com/ddimg/jfs/t1/114633/13/23148/116689/62369669E40a284e6/30f427a038f059a0.png)
@@ -67,10 +51,6 @@ https://dns.233py.com/dns-query
 **AdRules DNS List**
 ```https
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
-```
-**AdRules Adblock Plus List**
-```https
-https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock+adguard.txt
 ```
 **FastHosts List**
 ```https
@@ -81,16 +61,8 @@ https://raw.iqiq.io/hacamer/filtering/master/hosts
 ```https
 https://raw.iqiq.io/ookangzheng/dbl-oisd-nl/master/abp.txt
 ```
-**StevenBlack**
-```https
-https://raw.iqiq.io/StevenBlack/hosts/master/alternates/social/hosts
-```
 **Notrack-blocklist**
 ```https
-https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
-```
-**Notracking**
-```https
-https://raw.iqiq.io/notracking/hosts-blocklists/master/adblock/adblock.txt
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list
 ```
 ### 其他待补充
