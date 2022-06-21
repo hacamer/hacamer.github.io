@@ -27,7 +27,10 @@ https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock+adguard.tx
 
 手机版使用
 
-- AdRules (For AdBlock)：
+第一第二为主规则，
+第三第四作为补充，可不添加
+
+- AdRules AdBlock List：
 
 ```https
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
