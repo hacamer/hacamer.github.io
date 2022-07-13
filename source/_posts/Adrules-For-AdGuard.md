@@ -20,7 +20,7 @@ date: 2021-06-07 07:48:00
 **电脑版AdGuard可直接使用AdRules AdBlock Full List**
 
 ```https
-https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock+adguard.txt
+https://adrules.hacamer.cf/adblock_plus.txt
 ```
 
 **手机慎用**
@@ -33,13 +33,13 @@ https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock+adguard.tx
 - AdRules AdBlock List：
 
 ```https
-https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
+https://adrules.hacamer.cf/adblock.txt
 ```
 
 - AdGuard合并规则：
 
 ```https
-https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard.txt
+https://adrules.hacamer.cf/adguard.txt
 ```
 
 - Some-rule(admin):
