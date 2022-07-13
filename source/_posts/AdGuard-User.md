@@ -43,13 +43,13 @@ tags:
 AdRules AdBlock List：
 
 ```https
-https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
+https://adrules.hacamer.cf/adblock.txt
 ```
 
 AdGuard合并规则：
 
 ```https
-https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard.txt
+https://adrules.hacamer.cf/adguard.txt
 ```
 
 Some-rule(admin):  
@@ -124,7 +124,7 @@ quic://h.iqiq.io:784
 **启用dns过滤，订阅AdRules （For DNS）规则**  
 ![mac-dns-filter](https://dd-static.jd.com/ddimg/jfs/t1/98771/7/20709/432860/62634c48E964b5e0c/4216aa8d7863acb6.png)  
 ```http
-https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
+https://adrules.hacamer.cf/dns.txt
 ```
 
 **如有需要，可订阅Notracking**
