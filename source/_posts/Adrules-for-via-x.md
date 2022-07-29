@@ -24,7 +24,7 @@ https://raw.iqiq.io/hacamer/Adblist/master/adp.txt
 强力规则，AdRules Adblock Plus List
 
 ```https
-https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock+adguard.txt
+https://adrules.top/adblock_plus.txt
 ```
 
 两者可搭配使用
