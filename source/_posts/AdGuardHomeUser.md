@@ -50,7 +50,7 @@ https://i.233py.com/dns-query
 ## 规则
 **AdRules DNS List**
 ```https
-https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt
+https://adrules.top/dns.txt
 ```
 **FastHosts List**
 ```https
