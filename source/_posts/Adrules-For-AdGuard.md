@@ -1,6 +1,5 @@
 ---
 swiper_index: 1
-cover: 'https://hacamer.coding.net/p/lite/d/text/git/raw/master/adguard.png'
 title: ' AdGuard规则'
 author: Hacamer
 tags:
@@ -20,7 +19,7 @@ date: 2021-06-07 07:48:00
 **电脑版AdGuard可直接使用AdRules AdBlock Full List**
 
 ```https
-https://adrules.hacamer.cf/adblock_plus.txt
+https://adrules.top/adblock_plus.txt
 ```
 
 **手机慎用**
@@ -33,25 +32,25 @@ https://adrules.hacamer.cf/adblock_plus.txt
 - AdRules AdBlock List：
 
 ```https
-https://adrules.hacamer.cf/adblock.txt
+https://adrules.top/adblock.txt
 ```
 
 - AdGuard合并规则：
 
 ```https
-https://adrules.hacamer.cf/adguard.txt
+https://adrules.top/adguard.txt
 ```
 
 - Some-rule(admin):
 
 ```https
-https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt
+https://hacamer.github.io/AdRule/rules-admin.txt
 ```
 
 - Hacamer's URL Filter
 
 ```https
-https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
+https://hacamer.github.io/AdRule/url-filter.txt
 ```
 
 以上规则必须开启https过滤（安卓将证书移动到系统分区），否则过滤效果将下降！
