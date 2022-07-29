@@ -43,25 +43,25 @@ tags:
 AdRules AdBlock List：
 
 ```https
-https://adrules.hacamer.cf/adblock.txt
+https://adrules.top/adblock.txt
 ```
 
 AdGuard合并规则：
 
 ```https
-https://adrules.hacamer.cf/adguard.txt
+https://adrules.top/adguard.txt
 ```
 
 Some-rule(admin):  
 **可能激进，慎用！**
 ```https
-https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt
+https://hacamer.github.io/AdRule/rules-admin.txt
 ```
 
 Hacamer's URL Filter
 
 ```https
-https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt
+https://hacamer.github.io/AdRule/url-filter.txt
 ```
 
 <img style="max-width:100%;overflow:hidden;" src="https://dd-static.jd.com/ddimg/jfs/t1/148267/40/27793/52653/6258d4b9Ea8148e59/089c9b2d1a2c9458.png" alt="image.png" title="image.png" />
@@ -124,7 +124,7 @@ quic://h.iqiq.io:784
 **启用dns过滤，订阅AdRules （For DNS）规则**  
 ![mac-dns-filter](https://dd-static.jd.com/ddimg/jfs/t1/98771/7/20709/432860/62634c48E964b5e0c/4216aa8d7863acb6.png)  
 ```http
-https://adrules.hacamer.cf/dns.txt
+https://adrules.top/dns.txt
 ```
 
 **如有需要，可订阅Notracking**
