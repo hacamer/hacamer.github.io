@@ -9,97 +9,6 @@
   </url>
   
   <url>
-    <loc>https://hacamer.top/line/index.html</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/link/index.html</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/messageboard/index.html</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/movies/index.html</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/music/index.html</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/tags/index.html</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/posts/AdGuardHomeUser/</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/posts/APK-ALL/</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/posts/About-AdGuard-and-AdGuardHome-/</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/posts/AdGuard-User/</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/posts/Adrules-For-AdGuard/</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/posts/Adrules-for-via-x/</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hacamer.top/posts/MYN/</loc>
-    
-    <lastmod>2022-09-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://hacamer.top/posts/all-adblock/</loc>
     
     <lastmod>2022-09-04</lastmod>
@@ -197,6 +106,97 @@
     
   </url>
   
+  <url>
+    <loc>https://hacamer.top/line/index.html</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/link/index.html</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/messageboard/index.html</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/movies/index.html</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/music/index.html</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/tags/index.html</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/posts/APK-ALL/</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/posts/About-AdGuard-and-AdGuardHome-/</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/posts/AdGuard-User/</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/posts/AdGuardHomeUser/</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/posts/Adrules-For-AdGuard/</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/posts/Adrules-for-via-x/</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/posts/MYN/</loc>
+    
+    <lastmod>2022-09-04</lastmod>
+    
+  </url>
+  
 
   <url>
     <loc>https://hacamer.top/</loc>
@@ -222,6 +222,13 @@
   
   <url>
     <loc>https://hacamer.top/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hacamer.top/tags/AdGuardHome/</loc>
     <lastmod>2022-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
