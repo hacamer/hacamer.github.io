@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>梢梢的备忘录</title>
+    <link>https://hacamer.top/</link>
+    <description>Recent content on 梢梢的备忘录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>admin@hacamer.top (杏梢)</managingEditor>
+    <webMaster>admin@hacamer.top (杏梢)</webMaster><atom:link href="https://hacamer.top/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
