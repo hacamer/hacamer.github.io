@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>梢梢的备忘录</title>
-    <link>https://hacamer.top/</link>
-    <description>这是梢梢的备忘录</description>
+    <title>所有文章 - 梢梢的备忘录</title>
+    <link>https://hacamer.top/posts/</link>
+    <description>所有文章 | 梢梢的备忘录</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>admin@hacamer.top (杏梢)</managingEditor>
-      <webMaster>admin@hacamer.top (杏梢)</webMaster><lastBuildDate>Tue, 22 Nov 2022 07:11:14 &#43;0800</lastBuildDate>
-      <atom:link href="https://hacamer.top/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+      <webMaster>admin@hacamer.top (杏梢)</webMaster><lastBuildDate>Tue, 22 Nov 2022 07:11:14 &#43;0800</lastBuildDate><atom:link href="https://hacamer.top/posts/" rel="self" type="application/rss+xml" /><item>
   <title>First_post</title>
   <link>https://hacamer.top/first_post/</link>
   <pubDate>Tue, 22 Nov 2022 07:11:14 &#43;0800</pubDate>
