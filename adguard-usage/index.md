@@ -30,8 +30,6 @@
 
 2.打开拦截所有应用内的广告（手机端）
 
-<img style="max-width:100%;overflow:hidden;" src="https://dd-static.jd.com/ddimg/jfs/t1/97756/10/25971/8670/6258d114Edf5437e0/5b41c6f237ef315b.png" alt="image.png" title="image.png" />
-
 3.过滤器设置（全平台）
 
 自定义过滤器：
@@ -51,16 +49,15 @@ https://adrules.top/adguard.txt
 Some-rule(admin):  
 **可能激进，慎用！**
 ```https
-https://hacamer.github.io/AdRule/rules-admin.txt
+https://hacamer.top/AdRule/rules-admin.txt
 ```
 
 Hacamer's URL Filter
 
 ```https
-https://hacamer.github.io/AdRule/url-filter.txt
+https://hacamer.top/AdRule/url-filter.txt
 ```
 
-<img style="max-width:100%;overflow:hidden;" src="https://dd-static.jd.com/ddimg/jfs/t1/148267/40/27793/52653/6258d4b9Ea8148e59/089c9b2d1a2c9458.png" alt="image.png" title="image.png" />
 
 **不建议添加太多自定义过滤器，一是会导致网页等打开速度变慢，二是可能误杀严重，使用体验变差。**
 
@@ -69,7 +66,7 @@ https://hacamer.github.io/AdRule/url-filter.txt
 **一个问题，如果你的AdGuard拦截的跟踪器为0，请开启“AdGuard防跟踪过滤器”**
 
 **一些额外可开启的过滤器**  
-![mac-filter](https://dd-static.jd.com/ddimg/jfs/t1/185842/11/23427/562990/62634ba5Efd2d9235/1cb1a3fba10181d2.png)
+![](https://hacamer.top/IMG/MyBlog/adg-mac-add-rules.png)
 
 隐私
 
@@ -88,7 +85,7 @@ https://hacamer.github.io/AdRule/url-filter.txt
 ## 关于用户过滤器
 
 如遇到无法屏蔽的广告，可以自己写规则并添加到用户过滤器
-![安卓](https://fastly.jsdelivr.net/gh/hacamer/IMG@main/MyBlog/1635501606000.png)
+![安卓](https://hacamer.top/IMG/MyBlog/1635501606000.png)
 
 点右下角的加号添加
 
@@ -107,7 +104,7 @@ https://dns.alidns.com/dns-query
 ```
 
 **启用dns过滤，订阅AdRules （For DNS）规则**  
-![mac-dns-filter](https://dd-static.jd.com/ddimg/jfs/t1/98771/7/20709/432860/62634c48E964b5e0c/4216aa8d7863acb6.png)  
+![mac-dns-filter](https://hacamer.top/IMG/MyBlog/adg-mac-dns-filter.png)  
 ```http
 https://adrules.top/dns.txt
 ```
@@ -130,10 +127,10 @@ https://adrules.top/dns.txt
 关闭AdGuard自动检测用户脚本
 Windows：  
 设置-扩展-取消勾选“自动检测用户脚本”  
-![userscript-windows](https://dd-static.jd.com/ddimg/jfs/t1/50039/19/17637/57777/62634d5fEfb9ea2ac/2b6e0d51b62f0da1.png)  
+![userscript-windows](https://hacamer.top/IMG/MyBlog/userscript-windows.png)  
 Mac：  
 高级设置-subscription.link.interception.userscript-调成false   
-![userscript-mac](https://dd-static.jd.com/ddimg/jfs/t1/25251/5/15820/27659/62634e01E660e9d36/9ba674d758046438.png)   
+![userscript-mac](https://hacamer.top/IMG/MyBlog/userscript-mac.png)   
 # 六、设置完成 
 
 **尽情享受无广告的时光吧😊😘**
@@ -146,11 +143,11 @@ AdGuard常见问题Q&A：https://www.adgk.net/archives/112
 如果你搭配了Clash等网络工具使用，请开启过滤本地连接
 Windows：
 设置-常规-高级设置-过滤本地连接
-![localhosts-filtering-windows](https://dd-static.jd.com/ddimg/jfs/t1/188465/27/23953/61729/62634e77E0207b9f8/a83ed13a87fa4763.png)  
+![localhosts-filtering-windows](https://hacamer.top/IMG/MyBlog/localhosts-filtering-windows.png)  
 
 Mac：
 高级设置 - network.filtering.localnetwork 和 network.filtering.localhost 调成true
-![localhosts-filtering-mac](https://dd-static.jd.com/ddimg/jfs/t1/88396/8/26674/33588/62634f41Eba57c5d4/77c83e27fa508820.png)
+![localhosts-filtering-mac](https://hacamer.top/IMG/MyBlog/localhosts-filtering-mac.png)
 
 
 ---
