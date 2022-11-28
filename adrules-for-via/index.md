@@ -22,6 +22,6 @@ https://adrules.top/adblock_plus.txt
 
 ---
 
-> 作者: 杏梢  
+> 作者: [杏梢](https://hacamer.top)  
 > URL: https://hacamer.top/adrules-for-via/  
 
