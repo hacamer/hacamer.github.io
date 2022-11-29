@@ -6,18 +6,18 @@
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hacamer@protonmail.com (杏梢)</managingEditor>
       <webMaster>hacamer@protonmail.com (杏梢)</webMaster><lastBuildDate>Wed, 23 Nov 2022 09:28:33 &#43;0800</lastBuildDate><atom:link href="https://hacamer.top/posts/" rel="self" type="application/rss+xml" /><item>
   <title>AdGuard 使用方法</title>
-  <link>https://hacamer.top/adguard-usage/</link>
+  <link>https://hacamer.top/posts/adguard-usage/</link>
   <pubDate>Wed, 23 Nov 2022 09:28:33 &#43;0800</pubDate>
   <author>杏梢</author>
-  <guid>https://hacamer.top/adguard-usage/</guid>
+  <guid>https://hacamer.top/posts/adguard-usage/</guid>
   <description><![CDATA[AdGuard 使用教程 本文介绍AdGuard的使用方法，规则和设置理论上适配全平台 AdGuard是一款非常不错的软件，建议有能力可以入正支持 常规 一般保持]]></description>
 </item>
 <item>
   <title>对于Via的广告规则</title>
-  <link>https://hacamer.top/adrules-for-via/</link>
+  <link>https://hacamer.top/posts/adrules-for-via/</link>
   <pubDate>Wed, 23 Nov 2022 09:26:39 &#43;0800</pubDate>
   <author>杏梢</author>
-  <guid>https://hacamer.top/adrules-for-via/</guid>
+  <guid>https://hacamer.top/posts/adrules-for-via/</guid>
   <description><![CDATA[适用于via浏览器和x浏览器的广告规则 My AdFilters Lite 1 https://raw.iqiq.io/hacamer/Adblist/master/adp.txt 规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX]]></description>
 </item>
 </channel>

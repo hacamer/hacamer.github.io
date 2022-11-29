@@ -125,5 +125,5 @@ https://adrules.top/dns.txt
 ---
 
 > 作者: [杏梢](https://hacamer.top)  
-> URL: https://hacamer.top/adguard-usage/  
+> URL: https://hacamer.top/posts/adguard-usage/  
 
