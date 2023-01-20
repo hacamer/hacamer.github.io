@@ -27,24 +27,6 @@ AdRules AdBlock List：
 https://adrules.top/adblock.txt
 ```
 
-AdGuard合并规则：
-
-```https
-https://adrules.top/adguard.txt
-```
-
-Some-rule(admin):  
-**可能激进，慎用！**
-```https
-https://hacamer.top/AdRule/rules-admin.txt
-```
-
-Hacamer's URL Filter
-
-```https
-https://hacamer.top/AdRule/url-filter.txt
-```
-
 **一些额外可开启的过滤器**  
 
 
