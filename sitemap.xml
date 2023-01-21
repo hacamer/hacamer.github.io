@@ -2,8 +2,9 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
+      <loc>https://hacamer.top/posts/regex-rules-for-agh/</loc><lastmod>2023-01-21T19:28:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://hacamer.top/posts/</loc><lastmod>2023-01-21T19:28:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://hacamer.top/</loc><lastmod>2023-01-21T19:28:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://hacamer.top/posts/adguard-usage/</loc><lastmod>2022-11-23T09:28:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>https://hacamer.top/posts/</loc><lastmod>2022-11-23T09:28:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>https://hacamer.top/</loc><lastmod>2022-11-23T09:28:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
       <loc>https://hacamer.top/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
       <loc>https://hacamer.top/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
