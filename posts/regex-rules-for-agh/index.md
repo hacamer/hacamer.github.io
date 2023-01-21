@@ -13,7 +13,9 @@
 
 使用正则表达式对一些  `常见广告关键词` `常见跟踪器关键词` `HTTPDNS` 进行泛屏蔽，仅适用 [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) 
 
+更新频率：1 Month
 
+开源许可：[WTFPL](http://www.wtfpl.net/)
 
 - 订阅链接 [Subscribe](https://raw.githubusercontent.com/hacamer/AGHRules/main/regex.txt)
 - 镜像地址 [Subscribe](https://ghproxy.net/https://raw.githubusercontent.com/hacamer/AGHRules/main/regex.txt)

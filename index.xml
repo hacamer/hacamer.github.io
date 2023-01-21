@@ -12,7 +12,7 @@
   <pubDate>Sat, 21 Jan 2023 19:28:33 &#43;0800</pubDate>
   <author>杏梢</author>
   <guid>https://hacamer.top/posts/regex-rules-for-agh/</guid>
-  <description><![CDATA[HC REGEX LIST 简介 参照 正则表达式 为 AdGuardHome 程序编写的 DNS 黑名单过滤规则 项目 HC REGEX LIST 使用正则表达式对一些 常见广告关键词 常见跟踪器关键词 HTTPDNS 进行泛屏蔽，仅适用 AdGuardHome 订阅]]></description>
+  <description><![CDATA[HC REGEX LIST 简介 参照 正则表达式 为 AdGuardHome 程序编写的 DNS 黑名单过滤规则 项目 HC REGEX LIST 使用正则表达式对一些 常见广告关键词 常见跟踪器关键词 HTTPDNS 进行泛屏蔽，仅适用 AdGuardHome 更新]]></description>
 </item>
 <item>
   <title>AdGuard 使用方法</title>
