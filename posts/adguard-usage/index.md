@@ -4,6 +4,6 @@
 
 ---
 
-> 作者: [杏梢](https://hacamer.top)  
+> 作者: [梢](https://hacamer.top)  
 > URL: https://hacamer.top/posts/adguard-usage/  
 

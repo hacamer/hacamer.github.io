@@ -3,12 +3,20 @@
     <title>所有文章 - 梢梢的备忘录</title>
     <link>https://hacamer.top/posts/</link>
     <description>所有文章 | 梢梢的备忘录</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hacamer@protonmail.com (杏梢)</managingEditor>
-      <webMaster>hacamer@protonmail.com (杏梢)</webMaster><lastBuildDate>Sat, 21 Jan 2023 19:28:33 &#43;0800</lastBuildDate><atom:link href="https://hacamer.top/posts/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hacamer@protonmail.com (梢)</managingEditor>
+      <webMaster>hacamer@protonmail.com (梢)</webMaster><lastBuildDate>Sun, 22 Jan 2023 19:28:33 &#43;0800</lastBuildDate><atom:link href="https://hacamer.top/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>AGH配置备份</title>
+  <link>https://hacamer.top/posts/agh-config/</link>
+  <pubDate>Sun, 22 Jan 2023 19:28:33 &#43;0800</pubDate>
+  <author>梢</author>
+  <guid>https://hacamer.top/posts/agh-config/</guid>
+  <description><![CDATA[AGH的配置备份]]></description>
+</item>
+<item>
   <title>HC REGEX LIST 正则过滤列表</title>
   <link>https://hacamer.top/posts/regex-rules-for-agh/</link>
   <pubDate>Sat, 21 Jan 2023 19:28:33 &#43;0800</pubDate>
-  <author>杏梢</author>
+  <author>梢</author>
   <guid>https://hacamer.top/posts/regex-rules-for-agh/</guid>
   <description><![CDATA[对于AGH的REGEX过滤规则]]></description>
 </item>
@@ -16,9 +24,9 @@
   <title>AdGuard 使用方法</title>
   <link>https://hacamer.top/posts/adguard-usage/</link>
   <pubDate>Wed, 23 Nov 2022 09:28:33 &#43;0800</pubDate>
-  <author>杏梢</author>
+  <author>梢</author>
   <guid>https://hacamer.top/posts/adguard-usage/</guid>
-  <description><![CDATA[false]]></description>
+  <description><![CDATA[该文章已<strong>加密</strong>]]></description>
 </item>
 </channel>
 </rss>
